@@ -1,0 +1,1321 @@
+{
+  "posts": {
+    "cs-video-course": {
+      "title": "计算机科学视频班课程介绍",
+      "slug": "cs-video-course",
+      "publish_date": "2025-05-12",
+      "updated_at": "2026-04-29T02:02:51.156017Z",
+      "tags": [
+        "education"
+      ],
+      "has_images": false
+    },
+    "cs5-completed": {
+      "title": "计算机科学基础班第 5 期成功结束",
+      "slug": "cs5-completed",
+      "publish_date": "2024-05-03",
+      "updated_at": "2026-04-29T02:02:51.469500Z",
+      "tags": [
+        "education"
+      ],
+      "has_images": false
+    },
+    "cs-course-5": {
+      "title": "计算机科学基础班（第5期，现实接轨班）招生",
+      "slug": "cs-course-5",
+      "publish_date": "2023-12-23",
+      "updated_at": "2026-04-29T02:02:52.764290Z",
+      "tags": [
+        "education"
+      ],
+      "has_images": false
+    },
+    "air-freshener-nightmare": {
+      "title": "空气清新剂的噩梦",
+      "slug": "air-freshener-nightmare",
+      "publish_date": "2023-02-03",
+      "updated_at": "2026-04-29T02:02:53.100885Z",
+      "tags": [
+        "life",
+        "health",
+        "travel"
+      ],
+      "has_images": true
+    },
+    "continuation-course": {
+      "title": "continuation 和并发计算专项班",
+      "slug": "continuation-course",
+      "publish_date": "2022-12-12",
+      "updated_at": "2026-04-29T02:02:53.507780Z",
+      "tags": [
+        "education"
+      ],
+      "has_images": false
+    },
+    "tuition-for-covid": {
+      "title": "计算机科学阅读班提供疫情特价",
+      "slug": "tuition-for-covid",
+      "publish_date": "2022-12-01",
+      "updated_at": "2026-04-27T15:09:35.247854Z",
+      "tags": [
+        "computer-science",
+        "education"
+      ],
+      "has_images": false
+    },
+    "advanced-cs-course": {
+      "title": "计算机科学进阶班招生",
+      "slug": "advanced-cs-course",
+      "publish_date": "2022-02-22",
+      "updated_at": "2026-04-28T06:37:38.160705Z",
+      "tags": [
+        "education"
+      ],
+      "has_images": false
+    },
+    "myopia": {
+      "title": "自然视力恢复法",
+      "slug": "myopia",
+      "publish_date": "2022-02-22",
+      "updated_at": "2026-04-28T17:29:13.770045Z",
+      "tags": [
+        "health"
+      ],
+      "has_images": true
+    },
+    "reading-course": {
+      "title": "计算机科学阅读班招生说明",
+      "slug": "reading-course",
+      "publish_date": "2022-02-07",
+      "updated_at": "2026-04-27T15:13:10.340723Z",
+      "tags": [
+        "education"
+      ],
+      "has_images": false
+    },
+    "youth-cs-student": {
+      "title": "第一位“计算机科学少年班”学生毕业",
+      "slug": "youth-cs-student",
+      "publish_date": "2021-09-16",
+      "updated_at": "2026-04-28T20:10:50.400288Z",
+      "tags": [
+        "computer-science",
+        "education"
+      ],
+      "has_images": false
+    },
+    "super-human-level-vision": {
+      "title": "“超人类机器视觉”是不存在的",
+      "slug": "super-human-level-vision",
+      "publish_date": "2021-07-29",
+      "updated_at": "2026-04-28T06:50:06.323452Z",
+      "tags": [
+        "ai"
+      ],
+      "has_images": false
+    },
+    "gucs-sample": {
+      "title": "『Ground-Up Computer Science』样章",
+      "slug": "gucs-sample",
+      "publish_date": "2021-05-11",
+      "updated_at": "2026-04-28T21:21:44.228929Z",
+      "tags": [
+        "computer-science",
+        "education"
+      ],
+      "has_images": true
+    },
+    "cs4": {
+      "title": "计算机科学基础班（第 4 期）报名",
+      "slug": "cs4",
+      "publish_date": "2021-05-10",
+      "updated_at": "2026-04-28T06:00:13.924125Z",
+      "tags": [
+        "education"
+      ],
+      "has_images": false
+    },
+    "cello-technique": {
+      "title": "大提琴为什么这么难学",
+      "slug": "cello-technique",
+      "publish_date": "2021-04-16",
+      "updated_at": "2026-04-29T00:07:26.652231Z",
+      "tags": [
+        "lifestyle",
+        "education"
+      ],
+      "has_images": true
+    },
+    "cs-reading-course": {
+      "title": "计算机科学阅读班（实验）",
+      "slug": "cs-reading-course",
+      "publish_date": "2021-02-16",
+      "updated_at": "2026-04-27T22:38:10.386470Z",
+      "tags": [
+        "education"
+      ],
+      "has_images": false
+    },
+    "cs3": {
+      "title": "计算机科学基础班（第三期）报名",
+      "slug": "cs3",
+      "publish_date": "2021-02-15",
+      "updated_at": "2026-04-27T15:10:20.131756Z",
+      "tags": [
+        "education"
+      ],
+      "has_images": false
+    },
+    "cs-class2": {
+      "title": "计算机科学集体班（第二期）报名",
+      "slug": "cs-class2",
+      "publish_date": "2020-09-24",
+      "updated_at": "2026-04-28T01:42:01.919556Z",
+      "tags": [
+        "education"
+      ],
+      "has_images": false
+    },
+    "american-english-problems": {
+      "title": "几个需要避免的美国英语习惯",
+      "slug": "american-english-problems",
+      "publish_date": "2020-05-23",
+      "updated_at": "2026-04-27T15:10:24.011640Z",
+      "tags": [
+        "english"
+      ],
+      "has_images": false
+    },
+    "individualized-learning": {
+      "title": "一对一教学计划",
+      "slug": "individualized-learning",
+      "publish_date": "2020-04-30",
+      "updated_at": "2026-04-27T15:10:29.493754Z",
+      "tags": [
+        "education"
+      ],
+      "has_images": false
+    },
+    "entry-level-class": {
+      "title": "计算机科学入门班报名",
+      "slug": "entry-level-class",
+      "publish_date": "2020-03-26",
+      "updated_at": "2026-04-27T15:10:32.754233Z",
+      "tags": [
+        "education"
+      ],
+      "has_images": false
+    },
+    "wisdom-of-intelligence": {
+      "title": "对智商的怀疑",
+      "slug": "wisdom-of-intelligence",
+      "publish_date": "2020-03-23",
+      "updated_at": "2026-04-28T03:03:30.012580Z",
+      "tags": [
+        "philosophy"
+      ],
+      "has_images": true
+    },
+    "english-learning-tips": {
+      "title": "英语学习的一些经验",
+      "slug": "english-learning-tips",
+      "publish_date": "2020-03-06",
+      "updated_at": "2026-04-28T07:22:49.714803Z",
+      "tags": [
+        "english"
+      ],
+      "has_images": true
+    },
+    "cs-course": {
+      "title": "计算机科学课程",
+      "slug": "cs-course",
+      "publish_date": "2020-03-03",
+      "updated_at": "2026-04-28T02:20:33.842391Z",
+      "tags": [
+        "education"
+      ],
+      "has_images": false
+    },
+    "java-type-system": {
+      "title": "一道 Java 面试题",
+      "slug": "java-type-system",
+      "publish_date": "2020-02-13",
+      "updated_at": "2026-04-28T07:55:13.604643Z",
+      "tags": [
+        "programming-language",
+        "type-system"
+      ],
+      "has_images": false
+    },
+    "how-to-read-code": {
+      "title": "如何阅读别人的代码",
+      "slug": "how-to-read-code",
+      "publish_date": "2020-02-05",
+      "updated_at": "2026-04-28T09:45:48.868886Z",
+      "tags": [
+        "software-engineering",
+        "education"
+      ],
+      "has_images": false
+    },
+    "compilers": {
+      "title": "我不是编译器专家",
+      "slug": "compilers",
+      "publish_date": "2019-12-24",
+      "updated_at": "2026-04-28T04:48:04.914588Z",
+      "tags": [
+        "compiler"
+      ],
+      "has_images": false
+    },
+    "autopilot-responsibility": {
+      "title": "自动驾驶车的责任和风险分析",
+      "slug": "autopilot-responsibility",
+      "publish_date": "2019-09-30",
+      "updated_at": "2026-04-27T15:18:55.342217Z",
+      "tags": [
+        "ai"
+      ],
+      "has_images": true
+    },
+    "machine-vs-human-3": {
+      "title": "机器与人类视觉能力的差距（3）",
+      "slug": "machine-vs-human-3",
+      "publish_date": "2019-09-16",
+      "updated_at": "2026-04-27T15:13:25.193400Z",
+      "tags": [
+        "ai",
+        "philosophy"
+      ],
+      "has_images": true
+    },
+    "machine-vs-human-2": {
+      "title": "机器与人类视觉能力的差距（2）",
+      "slug": "machine-vs-human-2",
+      "publish_date": "2019-09-15",
+      "updated_at": "2026-04-27T15:13:29.169909Z",
+      "tags": [
+        "ai",
+        "philosophy"
+      ],
+      "has_images": true
+    },
+    "machine-vs-human": {
+      "title": "机器与人类视觉能力的差距（1）",
+      "slug": "machine-vs-human",
+      "publish_date": "2019-09-14",
+      "updated_at": "2026-04-27T15:13:15.297437Z",
+      "tags": [
+        "ai",
+        "philosophy"
+      ],
+      "has_images": true
+    },
+    "talk-is-not-cheap": {
+      "title": "Talk is not cheap",
+      "slug": "talk-is-not-cheap",
+      "publish_date": "2019-09-11",
+      "updated_at": "2026-04-28T11:38:21.480028Z",
+      "tags": [
+        "philosophy"
+      ],
+      "has_images": true
+    },
+    "microkernel": {
+      "title": "关于微内核的对话",
+      "slug": "microkernel",
+      "publish_date": "2019-08-19",
+      "updated_at": "2026-04-27T17:06:18.374504Z",
+      "tags": [
+        "computer-science"
+      ],
+      "has_images": true
+    },
+    "pnp2": {
+      "title": "再谈“P vs NP”问题",
+      "slug": "pnp2",
+      "publish_date": "2019-07-21",
+      "updated_at": "2026-04-28T21:48:22.953747Z",
+      "tags": [
+        "computer-science",
+        "education",
+        "ai"
+      ],
+      "has_images": false
+    },
+    "learning-philosophy": {
+      "title": "学习的智慧",
+      "slug": "learning-philosophy",
+      "publish_date": "2019-07-12",
+      "updated_at": "2026-04-29T00:04:59.250332Z",
+      "tags": [
+        "education",
+        "philosophy"
+      ],
+      "has_images": false
+    },
+    "grammar": {
+      "title": "解谜英语语法",
+      "slug": "grammar",
+      "publish_date": "2018-11-23",
+      "updated_at": "2026-04-28T02:44:33.553504Z",
+      "tags": [
+        "education"
+      ],
+      "has_images": true
+    },
+    "computer-science": {
+      "title": "解谜计算机科学",
+      "slug": "computer-science",
+      "publish_date": "2018-04-13",
+      "updated_at": "2026-04-28T02:44:16.064222Z",
+      "tags": [
+        "computer-science",
+        "education"
+      ],
+      "has_images": true
+    },
+    "smart-contract": {
+      "title": "智能合约和形式验证",
+      "slug": "smart-contract",
+      "publish_date": "2018-02-22",
+      "updated_at": "2026-04-28T13:30:42.530194Z",
+      "tags": [
+        "ai"
+      ],
+      "has_images": false
+    },
+    "chengdu-pollution": {
+      "title": "成都的雾霾",
+      "slug": "chengdu-pollution",
+      "publish_date": "2018-02-16",
+      "updated_at": "2026-04-28T01:48:22.687736Z",
+      "tags": [
+        "environment"
+      ],
+      "has_images": true
+    },
+    "genius": {
+      "title": "天才是不存在的",
+      "slug": "genius",
+      "publish_date": "2017-11-11",
+      "updated_at": "2026-04-28T17:08:11.013896Z",
+      "tags": [
+        "philosophy"
+      ],
+      "has_images": false
+    },
+    "words": {
+      "title": "网络用语",
+      "slug": "words",
+      "publish_date": "2017-11-05",
+      "updated_at": "2026-04-28T20:25:48.608849Z",
+      "tags": [
+        "philosophy"
+      ],
+      "has_images": false
+    },
+    "alphago-zero": {
+      "title": "AlphaGo Zero 和强人工智能",
+      "slug": "alphago-zero",
+      "publish_date": "2017-11-04",
+      "updated_at": "2026-04-27T16:19:23.591838Z",
+      "tags": [
+        "ai"
+      ],
+      "has_images": false
+    },
+    "power-of-reasoning": {
+      "title": "理性的力量",
+      "slug": "power-of-reasoning",
+      "publish_date": "2017-11-01",
+      "updated_at": "2026-04-27T15:13:38.025809Z",
+      "tags": [
+        "programming-language",
+        "philosophy",
+        "ai"
+      ],
+      "has_images": false
+    },
+    "ergonomics": {
+      "title": "人体工学",
+      "slug": "ergonomics",
+      "publish_date": "2017-10-16",
+      "updated_at": "2026-04-28T05:18:38.786753Z",
+      "tags": [
+        "health"
+      ],
+      "has_images": true
+    },
+    "travel-wisdom": {
+      "title": "旅行的智慧",
+      "slug": "travel-wisdom",
+      "publish_date": "2017-08-14",
+      "updated_at": "2026-04-27T10:04:56.729251Z",
+      "tags": [
+        "lifestyle",
+        "philosophy"
+      ],
+      "has_images": true
+    },
+    "living-philosophy": {
+      "title": "生活的智慧",
+      "slug": "living-philosophy",
+      "publish_date": "2017-07-08",
+      "updated_at": "2026-04-28T22:31:07.198834Z",
+      "tags": [
+        "philosophy"
+      ],
+      "has_images": true
+    },
+    "master-pl": {
+      "title": "如何掌握所有的程序语言",
+      "slug": "master-pl",
+      "publish_date": "2017-07-06",
+      "updated_at": "2026-04-27T14:45:53.946390Z",
+      "tags": [
+        "education"
+      ],
+      "has_images": false
+    },
+    "cat-travel-china": {
+      "title": "带猫回国经历",
+      "slug": "cat-travel-china",
+      "publish_date": "2017-07-06",
+      "updated_at": "2026-04-25T21:10:01.550938Z",
+      "tags": [
+        "lifestyle"
+      ],
+      "has_images": true
+    },
+    "dsl": {
+      "title": "DSL 的误区",
+      "slug": "dsl",
+      "publish_date": "2017-05-25",
+      "updated_at": "2026-04-28T22:25:01.458576Z",
+      "tags": [
+        "programming-language"
+      ],
+      "has_images": false
+    },
+    "kotlin": {
+      "title": "Kotlin 和 Checked Exception",
+      "slug": "kotlin",
+      "publish_date": "2017-05-23",
+      "updated_at": "2026-04-28T02:36:18.803566Z",
+      "tags": [
+        "programming-language",
+        "type-system"
+      ],
+      "has_images": true
+    },
+    "practical-idealism": {
+      "title": "什么是现实理想主义者",
+      "slug": "practical-idealism",
+      "publish_date": "2017-05-17",
+      "updated_at": "2026-04-29T01:53:37.231913Z",
+      "tags": [
+        "career",
+        "philosophy"
+      ],
+      "has_images": true
+    },
+    "ai": {
+      "title": "人工智能的局限性",
+      "slug": "ai",
+      "publish_date": "2017-04-23",
+      "updated_at": "2026-04-27T16:20:38.677521Z",
+      "tags": [
+        "ai"
+      ],
+      "has_images": true
+    },
+    "experience-and-insight": {
+      "title": "经验和洞察力",
+      "slug": "experience-and-insight",
+      "publish_date": "2017-04-14",
+      "updated_at": "2026-04-28T09:46:51.928957Z",
+      "tags": [
+        "philosophy"
+      ],
+      "has_images": false
+    },
+    "c-sharp-disposable": {
+      "title": "C# 的 IDisposable 接口",
+      "slug": "c-sharp-disposable",
+      "publish_date": "2016-10-13",
+      "updated_at": "2026-04-28T02:47:32.187564Z",
+      "tags": [
+        "programming-language"
+      ],
+      "has_images": false
+    },
+    "compiler-bug": {
+      "title": "C 编译器优化的 Bug",
+      "slug": "compiler-bug",
+      "publish_date": "2016-10-12",
+      "updated_at": "2026-04-27T15:13:45.167755Z",
+      "tags": [
+        "compiler",
+        "software-engineering",
+        "ai"
+      ],
+      "has_images": false
+    },
+    "rust": {
+      "title": "对 Rust 语言的分析",
+      "slug": "rust",
+      "publish_date": "2016-09-18",
+      "updated_at": "2026-04-28T07:29:21.972016Z",
+      "tags": [
+        "programming-language"
+      ],
+      "has_images": false
+    },
+    "tests": {
+      "title": "测试的道理",
+      "slug": "tests",
+      "publish_date": "2016-09-14",
+      "updated_at": "2026-04-28T23:46:13.518974Z",
+      "tags": [
+        "testing"
+      ],
+      "has_images": true
+    },
+    "tesla-autopilot-fatal-crash": {
+      "title": "Tesla autopilot 引起致命车祸",
+      "slug": "tesla-autopilot-fatal-crash",
+      "publish_date": "2016-07-10",
+      "updated_at": "2026-04-28T06:53:34.918778Z",
+      "tags": [
+        "ai"
+      ],
+      "has_images": false
+    },
+    "yangsheng": {
+      "title": "养生节目的危害",
+      "slug": "yangsheng",
+      "publish_date": "2016-06-28",
+      "updated_at": "2026-04-27T15:11:54.064951Z",
+      "tags": [
+        "health"
+      ],
+      "has_images": false
+    },
+    "java-value-type": {
+      "title": "Java 有值类型吗？",
+      "slug": "java-value-type",
+      "publish_date": "2016-06-08",
+      "updated_at": "2026-04-27T10:50:00.666823Z",
+      "tags": [
+        "programming-language",
+        "type-system"
+      ],
+      "has_images": false
+    },
+    "swift": {
+      "title": "Swift 语言的设计错误",
+      "slug": "swift",
+      "publish_date": "2016-06-06",
+      "updated_at": "2026-04-28T22:01:27.046674Z",
+      "tags": [
+        "programming-language"
+      ],
+      "has_images": false
+    },
+    "positive-thinking": {
+      "title": "正面思维的误区",
+      "slug": "positive-thinking",
+      "publish_date": "2016-05-22",
+      "updated_at": "2026-04-28T16:25:12.526284Z",
+      "tags": [
+        "tools",
+        "philosophy"
+      ],
+      "has_images": true
+    },
+    "pay-blog": {
+      "title": "博文的自愿付费方式",
+      "slug": "pay-blog",
+      "publish_date": "2016-04-13",
+      "updated_at": "2026-04-25T19:43:20.424401Z",
+      "tags": [
+        "philosophy"
+      ],
+      "has_images": true
+    },
+    "cfa": {
+      "title": "到底是谁在欺负我们读书少？",
+      "slug": "cfa",
+      "publish_date": "2016-04-07",
+      "updated_at": "2026-04-27T18:00:32.062182Z",
+      "tags": [
+        "compiler"
+      ],
+      "has_images": true
+    },
+    "no-longer-pl": {
+      "title": "我为什么不再做 PL 人",
+      "slug": "no-longer-pl",
+      "publish_date": "2016-03-31",
+      "updated_at": "2026-04-27T12:40:19.708959Z",
+      "tags": [
+        "career",
+        "philosophy"
+      ],
+      "has_images": true
+    },
+    "self-driving-car-liability": {
+      "title": "为什么自动车完全不可以犯错误",
+      "slug": "self-driving-car-liability",
+      "publish_date": "2016-03-19",
+      "updated_at": "2026-04-27T15:13:49.622328Z",
+      "tags": [
+        "ai",
+        "philosophy"
+      ],
+      "has_images": false
+    },
+    "alpha-go": {
+      "title": "AlphaGo与人工智能",
+      "slug": "alpha-go",
+      "publish_date": "2016-03-09",
+      "updated_at": "2026-04-27T15:13:51.851446Z",
+      "tags": [
+        "ai"
+      ],
+      "has_images": true
+    },
+    "self-driving-car": {
+      "title": "我看自动驾驶技术",
+      "slug": "self-driving-car",
+      "publish_date": "2016-02-12",
+      "updated_at": "2026-04-27T19:11:45.428369Z",
+      "tags": [
+        "ai"
+      ],
+      "has_images": true
+    },
+    "java": {
+      "title": "给Java说句公道话",
+      "slug": "java",
+      "publish_date": "2016-01-18",
+      "updated_at": "2026-04-26T05:06:37.867101Z",
+      "tags": [
+        "programming-language"
+      ],
+      "has_images": false
+    },
+    "tesla-autopilot": {
+      "title": "Tesla Autopilot",
+      "slug": "tesla-autopilot",
+      "publish_date": "2016-01-10",
+      "updated_at": "2026-04-27T15:13:56.419111Z",
+      "tags": [
+        "ai"
+      ],
+      "has_images": true
+    },
+    "tesla-model-x": {
+      "title": "Tesla Model X的车门设计问题",
+      "slug": "tesla-model-x",
+      "publish_date": "2015-12-21",
+      "updated_at": "2026-04-27T15:13:59.804168Z",
+      "tags": [
+        "ai"
+      ],
+      "has_images": true
+    },
+    "turing": {
+      "title": "图灵的光环",
+      "slug": "turing",
+      "publish_date": "2015-10-18",
+      "updated_at": "2026-04-28T08:43:32.317157Z",
+      "tags": [
+        "computer-science"
+      ],
+      "has_images": false
+    },
+    "parser": {
+      "title": "对 Parser 的误解",
+      "slug": "parser",
+      "publish_date": "2015-09-19",
+      "updated_at": "2026-04-28T05:12:05.588921Z",
+      "tags": [
+        "compiler"
+      ],
+      "has_images": false
+    },
+    "math": {
+      "title": "数学和编程",
+      "slug": "math",
+      "publish_date": "2015-07-04",
+      "updated_at": "2026-04-28T09:47:13.452334Z",
+      "tags": [
+        "education",
+        "computer-science"
+      ],
+      "has_images": false
+    },
+    "program-correctness": {
+      "title": "谈程序的正确性",
+      "slug": "program-correctness",
+      "publish_date": "2015-07-02",
+      "updated_at": "2026-04-28T09:47:17.651599Z",
+      "tags": [
+        "software-engineering"
+      ],
+      "has_images": false
+    },
+    "dry-principle": {
+      "title": "DRY原则的误区",
+      "slug": "dry-principle",
+      "publish_date": "2015-06-14",
+      "updated_at": "2026-04-28T09:47:18.410476Z",
+      "tags": [
+        "software-engineering"
+      ],
+      "has_images": false
+    },
+    "software-engineering": {
+      "title": "所谓软件工程",
+      "slug": "software-engineering",
+      "publish_date": "2015-06-07",
+      "updated_at": "2026-04-28T09:47:20.665059Z",
+      "tags": [
+        "software-engineering"
+      ],
+      "has_images": false
+    },
+    "paradigms": {
+      "title": "编程的宗派",
+      "slug": "paradigms",
+      "publish_date": "2015-04-03",
+      "updated_at": "2026-04-28T09:47:25.647202Z",
+      "tags": [
+        "programming-language"
+      ],
+      "has_images": false
+    },
+    "accent": {
+      "title": "英语口音",
+      "slug": "accent",
+      "publish_date": "2015-03-21",
+      "updated_at": "2026-04-27T03:50:12.844233Z",
+      "tags": [
+        "philosophy"
+      ],
+      "has_images": false
+    },
+    "trap-of-intelligence": {
+      "title": "智商的圈套",
+      "slug": "trap-of-intelligence",
+      "publish_date": "2015-03-20",
+      "updated_at": "2026-04-26T16:55:27.459936Z",
+      "tags": [
+        "philosophy"
+      ],
+      "has_images": true
+    },
+    "design": {
+      "title": "设计的重要性",
+      "slug": "design",
+      "publish_date": "2015-03-17",
+      "updated_at": "2026-04-28T09:47:26.573638Z",
+      "tags": [
+        "software-engineering"
+      ],
+      "has_images": true
+    },
+    "git-etiquette": {
+      "title": "关于Git的礼节",
+      "slug": "git-etiquette",
+      "publish_date": "2015-03-11",
+      "updated_at": "2026-04-28T09:47:33.604460Z",
+      "tags": [
+        "tools"
+      ],
+      "has_images": false
+    },
+    "how-to-respect-a-programmer": {
+      "title": "怎样尊重一个程序员",
+      "slug": "how-to-respect-a-programmer",
+      "publish_date": "2015-03-03",
+      "updated_at": "2026-04-28T14:20:36.175602Z",
+      "tags": [
+        "career"
+      ],
+      "has_images": true
+    },
+    "human-errors": {
+      "title": "所谓“人为错误”",
+      "slug": "human-errors",
+      "publish_date": "2015-02-24",
+      "updated_at": "2026-04-26T17:18:57.242116Z",
+      "tags": [
+        "philosophy"
+      ],
+      "has_images": true
+    },
+    "other-peoples-bug": {
+      "title": "其他人的BUG",
+      "slug": "other-peoples-bug",
+      "publish_date": "2015-02-20",
+      "updated_at": "2026-04-26T17:18:58.447254Z",
+      "tags": [
+        "software-engineering",
+        "education",
+        "philosophy"
+      ],
+      "has_images": false
+    },
+    "creative-thinking": {
+      "title": "创造者的思维方式",
+      "slug": "creative-thinking",
+      "publish_date": "2015-02-01",
+      "updated_at": "2026-04-28T09:47:40.800738Z",
+      "tags": [
+        "philosophy"
+      ],
+      "has_images": false
+    },
+    "tips": {
+      "title": "小费和中国人的尊严",
+      "slug": "tips",
+      "publish_date": "2015-01-19",
+      "updated_at": "2026-04-28T20:58:27.665926Z",
+      "tags": [
+        "lifestyle"
+      ],
+      "has_images": true
+    },
+    "interstellar": {
+      "title": "恶评《星际穿越》",
+      "slug": "interstellar",
+      "publish_date": "2014-11-12",
+      "updated_at": "2026-04-28T10:05:47.526719Z",
+      "tags": [
+        "lifestyle"
+      ],
+      "has_images": true
+    },
+    "relational": {
+      "title": "关系式模型的实质",
+      "slug": "relational",
+      "publish_date": "2014-04-24",
+      "updated_at": "2026-04-27T15:12:05.732777Z",
+      "tags": [
+        "computer-science"
+      ],
+      "has_images": false
+    },
+    "golang": {
+      "title": "对 Go 语言的综合评价",
+      "slug": "golang",
+      "publish_date": "2014-04-18",
+      "updated_at": "2026-04-28T03:47:37.198150Z",
+      "tags": [
+        "programming-language"
+      ],
+      "has_images": false
+    },
+    "dijkstra-interview": {
+      "title": "一个对 Dijkstra 的采访视频",
+      "slug": "dijkstra-interview",
+      "publish_date": "2014-02-18",
+      "updated_at": "2026-04-27T15:12:07.886936Z",
+      "tags": [
+        "programming-language",
+        "computer-science",
+        "tools"
+      ],
+      "has_images": true
+    },
+    "programmer-mental": {
+      "title": "程序员的心理疾病",
+      "slug": "programmer-mental",
+      "publish_date": "2014-02-09",
+      "updated_at": "2026-04-27T14:30:52.222152Z",
+      "tags": [
+        "career",
+        "philosophy"
+      ],
+      "has_images": true
+    },
+    "pl-tool": {
+      "title": "程序语言与它们的工具",
+      "slug": "pl-tool",
+      "publish_date": "2014-02-04",
+      "updated_at": "2026-04-27T14:30:52.491526Z",
+      "tags": [
+        "programming-language",
+        "tools"
+      ],
+      "has_images": false
+    },
+    "rubysonar": {
+      "title": "RubySonar：一个 Ruby 静态分析器",
+      "slug": "rubysonar",
+      "publish_date": "2014-01-28",
+      "updated_at": "2026-04-26T17:42:37.536519Z",
+      "tags": [
+        "software-engineering",
+        "tools",
+        "ai"
+      ],
+      "has_images": true
+    },
+    "authority": {
+      "title": "我和权威的故事",
+      "slug": "authority",
+      "publish_date": "2014-01-04",
+      "updated_at": "2026-04-29T02:03:59.747491Z",
+      "tags": [
+        "philosophy",
+        "education"
+      ],
+      "has_images": true
+    },
+    "pysonar2-sg": {
+      "title": "PySonar2 与 Sourcegraph 集成完毕",
+      "slug": "pysonar2-sg",
+      "publish_date": "2013-11-25",
+      "updated_at": "2026-04-26T18:09:33.957991Z",
+      "tags": [
+        "programming-language",
+        "software-engineering",
+        "tools"
+      ],
+      "has_images": true
+    },
+    "church-turing": {
+      "title": "丘奇和图灵",
+      "slug": "church-turing",
+      "publish_date": "2013-07-13",
+      "updated_at": "2026-04-28T02:47:06.924173Z",
+      "tags": [
+        "computer-science"
+      ],
+      "has_images": true
+    },
+    "reason-and-proof": {
+      "title": "原因与证明",
+      "slug": "reason-and-proof",
+      "publish_date": "2013-04-26",
+      "updated_at": "2026-04-28T02:47:59.250506Z",
+      "tags": [
+        "philosophy",
+        "computer-science"
+      ],
+      "has_images": false
+    },
+    "editor-ide": {
+      "title": "编辑器与IDE",
+      "slug": "editor-ide",
+      "publish_date": "2013-04-20",
+      "updated_at": "2026-04-28T02:49:29.768652Z",
+      "tags": [
+        "tools"
+      ],
+      "has_images": false
+    },
+    "language-design-mistake2": {
+      "title": "程序语言的常见设计错误(2) - 试图容纳世界",
+      "slug": "language-design-mistake2",
+      "publish_date": "2013-04-18",
+      "updated_at": "2026-04-28T09:47:55.550717Z",
+      "tags": [
+        "programming-language"
+      ],
+      "has_images": false
+    },
+    "languages": {
+      "title": "关于语言的思考",
+      "slug": "languages",
+      "publish_date": "2013-04-17",
+      "updated_at": "2026-04-28T09:47:56.601237Z",
+      "tags": [
+        "programming-language"
+      ],
+      "has_images": false
+    },
+    "yoda-notation": {
+      "title": "Yoda 表示法错在哪里",
+      "slug": "yoda-notation",
+      "publish_date": "2013-04-16",
+      "updated_at": "2026-04-26T10:38:18.405068Z",
+      "tags": [
+        "programming-language"
+      ],
+      "has_images": true
+    },
+    "terminology": {
+      "title": "几个超炫的专业词汇",
+      "slug": "terminology",
+      "publish_date": "2013-04-15",
+      "updated_at": "2026-04-27T16:16:14.131557Z",
+      "tags": [
+        "philosophy"
+      ],
+      "has_images": true
+    },
+    "standard-exam-language": {
+      "title": "标准化试卷标记语言",
+      "slug": "standard-exam-language",
+      "publish_date": "2013-04-14",
+      "updated_at": "2026-04-27T15:12:19.480627Z",
+      "tags": [
+        "computer-science",
+        "philosophy",
+        "tools"
+      ],
+      "has_images": false
+    },
+    "os-design": {
+      "title": "一种新的操作系统设计",
+      "slug": "os-design",
+      "publish_date": "2013-04-14",
+      "updated_at": "2026-04-27T16:16:18.923453Z",
+      "tags": [
+        "computer-science"
+      ],
+      "has_images": false
+    },
+    "markdown": {
+      "title": "Markdown 的一些问题",
+      "slug": "markdown",
+      "publish_date": "2013-04-14",
+      "updated_at": "2026-04-28T01:15:52.906515Z",
+      "tags": [
+        "tools"
+      ],
+      "has_images": true
+    },
+    "generality": {
+      "title": "谈程序的“通用性”",
+      "slug": "generality",
+      "publish_date": "2013-04-13",
+      "updated_at": "2026-04-27T14:21:04.134511Z",
+      "tags": [
+        "philosophy",
+        "software-engineering"
+      ],
+      "has_images": false
+    },
+    "inspiration": {
+      "title": "什么是启发",
+      "slug": "inspiration",
+      "publish_date": "2013-04-12",
+      "updated_at": "2026-04-27T14:20:50.765643Z",
+      "tags": [
+        "philosophy"
+      ],
+      "has_images": false
+    },
+    "scheme-setup": {
+      "title": "Scheme 编程环境的设置",
+      "slug": "scheme-setup",
+      "publish_date": "2013-04-11",
+      "updated_at": "2026-04-27T13:29:07.910963Z",
+      "tags": [
+        "programming-language",
+        "tools"
+      ],
+      "has_images": true
+    },
+    "cornell": {
+      "title": "我为什么离开 Cornell",
+      "slug": "cornell",
+      "publish_date": "2013-04-10",
+      "updated_at": "2026-04-28T04:06:46.438929Z",
+      "tags": [
+        "tools"
+      ],
+      "has_images": false
+    },
+    "test-driven-dev": {
+      "title": "测试驱动开发",
+      "slug": "test-driven-dev",
+      "publish_date": "2013-04-07",
+      "updated_at": "2026-04-28T20:07:29.482832Z",
+      "tags": [
+        "testing"
+      ],
+      "has_images": false
+    },
+    "currying": {
+      "title": "Currying 的局限性",
+      "slug": "currying",
+      "publish_date": "2013-04-02",
+      "updated_at": "2026-04-27T14:06:36.234302Z",
+      "tags": [
+        "functional-programming"
+      ],
+      "has_images": false
+    },
+    "lazy-evaluation": {
+      "title": "惰性求值",
+      "slug": "lazy-evaluation",
+      "publish_date": "2013-04-01",
+      "updated_at": "2026-04-27T16:08:54.645889Z",
+      "tags": [
+        "functional-programming"
+      ],
+      "has_images": false
+    },
+    "hindley-milner": {
+      "title": "Hindley-Milner 类型系统的根本性错误",
+      "slug": "hindley-milner",
+      "publish_date": "2013-04-01",
+      "updated_at": "2026-04-27T14:20:36.835955Z",
+      "tags": [
+        "type-system"
+      ],
+      "has_images": false
+    },
+    "purely-functional": {
+      "title": "函数式语言的宗教",
+      "slug": "purely-functional",
+      "publish_date": "2013-03-31",
+      "updated_at": "2026-04-27T16:18:09.459036Z",
+      "tags": [
+        "functional-programming"
+      ],
+      "has_images": true
+    },
+    "scripting-language": {
+      "title": "什么是“脚本语言”",
+      "slug": "scripting-language",
+      "publish_date": "2013-03-29",
+      "updated_at": "2026-04-28T08:28:01.681144Z",
+      "tags": [
+        "programming-language"
+      ],
+      "has_images": false
+    },
+    "lisp-dead-alive": {
+      "title": "Lisp 已死，Lisp 万岁！",
+      "slug": "lisp-dead-alive",
+      "publish_date": "2013-03-26",
+      "updated_at": "2026-04-27T14:29:27.424671Z",
+      "tags": [
+        "programming-language"
+      ],
+      "has_images": false
+    },
+    "tools": {
+      "title": "论对东西的崇拜",
+      "slug": "tools",
+      "publish_date": "2013-03-24",
+      "updated_at": "2026-04-27T14:51:00.712191Z",
+      "tags": [
+        "tools"
+      ],
+      "has_images": false
+    },
+    "eliminate-problems": {
+      "title": "“解决问题”与“消灭问题”",
+      "slug": "eliminate-problems",
+      "publish_date": "2013-03-19",
+      "updated_at": "2026-04-28T02:43:43.766293Z",
+      "tags": [
+        "philosophy"
+      ],
+      "has_images": false
+    },
+    "language-design-mistake1": {
+      "title": "程序语言的常见设计错误(1) - 片面追求短小",
+      "slug": "language-design-mistake1",
+      "publish_date": "2013-03-15",
+      "updated_at": "2026-04-28T09:48:22.856840Z",
+      "tags": [
+        "programming-language"
+      ],
+      "has_images": false
+    },
+    "on-syntax": {
+      "title": "谈语法",
+      "slug": "on-syntax",
+      "publish_date": "2013-03-08",
+      "updated_at": "2026-04-28T07:31:24.891336Z",
+      "tags": [
+        "programming-language"
+      ],
+      "has_images": true
+    },
+    "linux-windows-mac": {
+      "title": "谈 Linux，Windows 和 Mac",
+      "slug": "linux-windows-mac",
+      "publish_date": "2013-03-07",
+      "updated_at": "2026-04-27T16:09:49.418339Z",
+      "tags": [
+        "tools"
+      ],
+      "has_images": false
+    },
+    "design-patterns": {
+      "title": "解密\"设计模式\"",
+      "slug": "design-patterns",
+      "publish_date": "2013-03-07",
+      "updated_at": "2026-04-28T09:48:27.920887Z",
+      "tags": [
+        "software-engineering"
+      ],
+      "has_images": true
+    },
+    "oberon": {
+      "title": "Oberon 操作系统：被忽略的珍宝",
+      "slug": "oberon",
+      "publish_date": "2013-03-07",
+      "updated_at": "2026-04-27T16:24:05.877186Z",
+      "tags": [
+        "programming-language",
+        "tools"
+      ],
+      "has_images": false
+    },
+    "braid": {
+      "title": "Braid - 一个发人深思的游戏",
+      "slug": "braid",
+      "publish_date": "2013-03-04",
+      "updated_at": "2026-04-28T02:51:45.635198Z",
+      "tags": [
+        "lifestyle",
+        "philosophy"
+      ],
+      "has_images": true
+    },
+    "semantics": {
+      "title": "什么是语义学",
+      "slug": "semantics",
+      "publish_date": "2012-07-25",
+      "updated_at": "2026-04-28T15:03:56.977391Z",
+      "tags": [
+        "programming-language",
+        "computer-science"
+      ],
+      "has_images": true
+    },
+    "google-story": {
+      "title": "我和 Google 的故事（2012 年原版）",
+      "slug": "google-story",
+      "publish_date": "2012-07-12",
+      "updated_at": "2026-04-28T00:29:50.462923Z",
+      "tags": [
+        "career"
+      ],
+      "has_images": false
+    },
+    "user-friendliness": {
+      "title": "什么是\"对用户友好\"",
+      "slug": "user-friendliness",
+      "publish_date": "2012-05-18",
+      "updated_at": "2026-04-27T16:47:23.249783Z",
+      "tags": [
+        "tools",
+        "philosophy"
+      ],
+      "has_images": true
+    }
+  }
+}
