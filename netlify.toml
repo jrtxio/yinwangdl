@@ -1,8 +1,0 @@
-[build]
-  publish = "dist"
-  command = "npm install && npm run build"
-
-[[redirects]]
-  from = "/*"
-  to = "/404"
-  status = 404
