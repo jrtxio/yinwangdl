@@ -365,11 +365,29 @@ a:hover { color: var(--accent-hover); }
   text-decoration-color: var(--accent);
 }
 
-/* ---- Ad ---- */
+/* ---- Sidebar Ads ---- */
 
-.ad-container {
-  margin: 2.5em 0;
-  min-height: 100px;
+.ad-sidebar {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 160px;
+  display: none;
+  z-index: 1;
+}
+
+.ad-sidebar--left {
+  right: calc(50% + var(--max-w) / 2 + 16px);
+}
+
+.ad-sidebar--right {
+  left: calc(50% + var(--max-w) / 2 + 16px);
+}
+
+@media (min-width: 1200px) {
+  .ad-sidebar {
+    display: block;
+  }
 }
 
 /* ---- Footer ---- */
