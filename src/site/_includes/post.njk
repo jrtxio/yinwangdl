@@ -1,0 +1,28 @@
+---
+layout: base.njk
+---
+<article class="post">
+  <header class="post-header">
+    <h1>{{ title }}</h1>
+    <div class="post-meta">
+      <span>作者：{{ author or "王垠" }}</span>
+      {% if created %}<time>{{ created | isodate }}</time>{% endif %}
+      {% if source %}<a href="{{ source }}" target="_blank" rel="noopener">原文链接</a>{% endif %}
+    </div>
+  </header>
+  <div class="post-content">
+    {{ content | safe }}
+  </div>
+
+  {% if meta.adsenseClient %}
+  <div class="ad-container">
+    <ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="{{ meta.adsenseClient }}"
+      data-ad-slot="{{ meta.adsenseSlot }}"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+  {% endif %}
+</article>

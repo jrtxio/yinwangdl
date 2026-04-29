@@ -1,0 +1,50 @@
+---
+layout: base.njk
+title: ""
+pagination:
+  data: collections.post
+  size: 50
+  reverse: true
+  alias: posts
+permalink: "{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+---
+<div class="home">
+  {% if meta.adsenseClient %}
+  <div class="ad-container ad-top">
+    <ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="{{ meta.adsenseClient }}"
+      data-ad-slot="{{ meta.adsenseSlot }}"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+  {% endif %}
+
+  <div class="post-list">
+    {% for post in posts %}
+    <article class="post-item">
+      <h2><a href="{{ post.url }}">{{ post.data.title or post.fileSlug }}</a></h2>
+      <div class="post-item-meta">
+        {% if post.data.created %}
+        <time>{{ post.data.created }}</time>
+        {% endif %}
+        {% if post.data.author %}
+        <span>{{ post.data.author }}</span>
+        {% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+
+  {% if pagination.pages.length > 1 %}
+  <nav class="pagination">
+    {% if pagination.previousPageLink %}
+    <a href="{{ pagination.previousPageHref }}" class="prev">上一页</a>
+    {% endif %}
+    {% if pagination.nextPageLink %}
+    <a href="{{ pagination.nextPageHref }}" class="next">下一页</a>
+    {% endif %}
+  </nav>
+  {% endif %}
+</div>

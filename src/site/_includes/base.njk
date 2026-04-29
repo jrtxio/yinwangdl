@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ meta.mainLanguage }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if title %}{{ title }} - {% endif %}{{ meta.siteName }}</title>
+  <meta name="description" content="{% if excerpt %}{{ excerpt }}{% else %}王垠博客文章备份，自动爬取存档{% endif %}">
+  <link rel="canonical" href="{{ meta.siteBaseUrl }}{{ page.url }}">
+  {% if meta.adsenseClient %}
+  <meta name="google-adsense-account" content="{{ meta.adsenseClient }}">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ meta.adsenseClient }}" crossorigin="anonymous"></script>
+  {% endif %}
+  <link rel="stylesheet" href="/styles/main.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="/" class="site-title">{{ meta.siteName }}</a>
+      <p class="site-desc">自动备份 yinwang.org 博客文章 | <a href="https://github.com/jrtxio/yinwangdl">GitHub</a></p>
+    </div>
+  </header>
+  <main class="container">
+    {{ content | safe }}
+  </main>
+  <footer class="site-footer">
+    <div class="container">
+      <p>内容版权归原作者所有 | 本站仅作备份存档</p>
+    </div>
+  </footer>
+</body>
+</html>
