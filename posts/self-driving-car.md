@@ -1,13 +1,13 @@
 ---
 dg-publish: false
-title: "我看自动驾驶技术"
+title: '"我看自动驾驶技术"'
 author: 王垠
 created: 2016-02-12
 source: https://www.yinwang.org/posts/self-driving-car
 ---
 这段时间，Google 的自动车，Tesla 的 autopilot，经常出现在新闻头条。人们热烈的讨论自动驾驶技术，对这“科幻般”的技术充满了憧憬，好奇，甚至恐惧。Google 说：“自动车很安全。人类是糟糕的驾驶员。” 很多人不假思索就接受了这种观点，以为自己不久以后就会被自动车所代替，所以我今天想谈谈对这些“自动车”的看法。
 
-从我的另一篇[文章](http://www.jianshu.com/p/1f6f624d9815)，你应该已经看到，Tesla 的 autopilot 其实根本不算是“自动驾驶”，它完全不能和 Google 的自动车相比。Tesla 把这种不成熟的软件推送到用户的车里，为的只是跟 Google 抢风头，塑造自己的高大形象。看，我们先出了自动车！可是呢，Tesla 那东西顶多算一个“adaptive cruise control”，离真正的自动驾驶还很遥远。可惜的是，Tesla 为了自己的名声，拿用户的性命当儿戏，还有些人为它叫好。
+从我的另一篇[[Tesla Autopilot|文章]]，你应该已经看到，Tesla 的 autopilot 其实根本不算是“自动驾驶”，它完全不能和 Google 的自动车相比。Tesla 把这种不成熟的软件推送到用户的车里，为的只是跟 Google 抢风头，塑造自己的高大形象。看，我们推出了自动车！可是呢，Tesla 那东西顶多算一个“adaptive cruise control”，离真正的自动驾驶还很遥远。可惜的是，Tesla 为了自己的名声，拿用户的性命当儿戏，还有些人为它叫好。
 
 然而就算是 Google 的自动车，离能够投入使用，其实还差得很远。我这里说的“很远”，不是像某些人预测的 10 年，20 年，而是至少 100 年，1000 年…… 甚至永远无法实现。这是为什么呢？Google 不是声称，每天都要让它的自动车“学习”上百万 mile 的行驶记录吗？难道学习了如此的“大数据”，不能让这车子变得跟人一样聪明吗？
 
@@ -37,7 +37,7 @@ source: https://www.yinwang.org/posts/self-driving-car
 
 如果你还没明白，也许下面这个图片可以把你拉回到现实世界：
 
-![](http://upload-images.jianshu.io/upload_images/68562-39e22022670591ee.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/400)
+![Pasted image 20250512100038.png](/images/self-driving-car/Pasted image 20250512100038.png)
 
 一个机器，如何能知道旁边的车上正在发生什么，即将可能发生什么样的危险情况呢？它如何知道，需要赶快避开这辆车呢？它不能。一个没有认知能力的机器，是难以应付复杂多变的现实世界的。
 

@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "Swift 语言的设计错误"
+title: '"Swift 语言的设计错误"'
 author: 王垠
 created: 2016-06-06
 source: https://www.yinwang.org/posts/swift

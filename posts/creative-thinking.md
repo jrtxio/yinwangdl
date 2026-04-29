@@ -1,13 +1,13 @@
 ---
 dg-publish: false
-title: "创造者的思维方式"
+title: '"创造者的思维方式"'
 author: 王垠
 created: 2015-02-01
 source: https://www.yinwang.org/posts/creative-thinking
 ---
 我不知道人们是怎么回事，缺乏想象力还是怎么的，所以我跟其他人对话常常遇到类似的问题。
 
-我：A 其实不怎么好。<br>
+我：A 其实不怎么好。  
 其他人：你说 A 不好，难道你要我用 B？
 
 （对于政治爱好者，如果 A 是资本主义，B 就是社会主义；如果 A 是美国，B 就是中国，等等。对于 IT 人员，如果 A 是 Unix，B 就是 Windows；如果 A 是 Vim，B 就是 Emacs；如果 A 是关系式数据库，B 就是 NoSQL 数据库，等等……）

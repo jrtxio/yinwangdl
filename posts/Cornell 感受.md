@@ -2,7 +2,7 @@
 dg-publish: false
 author: 王垠
 created: 2013-04-10
-source: https://www.yinwang.org
+source: https://www.yinwang.org/posts/cornell
 ---
 ## Cornell 感受(1)
 

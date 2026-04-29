@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "我和权威的故事"
+title: '"我和权威的故事"'
 author: 王垠
 created: 2014-01-04
 source: https://www.yinwang.org/posts/authority

@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "函数式语言的宗教"
+title: '"函数式语言的宗教"'
 author: 王垠
 created: 2013-03-31
 source: https://www.yinwang.org/posts/purely-functional

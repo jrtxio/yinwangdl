@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "惰性求值"
+title: '"惰性求值"'
 author: 王垠
 created: 2013-04-01
 source: https://www.yinwang.org/posts/lazy-evaluation

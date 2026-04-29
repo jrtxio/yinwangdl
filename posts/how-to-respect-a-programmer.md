@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "怎样尊重一个程序员"
+title: '"怎样尊重一个程序员"'
 author: 王垠
 created: 2015-03-03
 source: https://www.yinwang.org/posts/how-to-respect-a-programmer

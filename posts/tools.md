@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "论对东西的崇拜"
+title: '"论对东西的崇拜"'
 author: 王垠
 created: 2013-03-24
 source: https://www.yinwang.org/posts/tools

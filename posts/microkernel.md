@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "关于微内核的对话"
+title: '"关于微内核的对话"'
 author: 王垠
 created: 2019-08-19
 source: https://www.yinwang.org/posts/microkernel

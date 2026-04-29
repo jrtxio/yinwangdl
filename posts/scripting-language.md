@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "什么是“脚本语言”"
+title: '"什么是“脚本语言”"'
 author: 王垠
 created: 2013-03-29
 source: https://www.yinwang.org/posts/scripting-language

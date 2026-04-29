@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "解密\"设计模式\""
+title: '"解密"设计模式""'
 author: 王垠
 created: 2013-03-07
 source: https://www.yinwang.org/posts/design-patterns

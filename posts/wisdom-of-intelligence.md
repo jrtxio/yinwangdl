@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "对智商的怀疑"
+title: '"对智商的怀疑"'
 author: 王垠
 created: 2020-03-23
 source: https://www.yinwang.org/posts/wisdom-of-intelligence

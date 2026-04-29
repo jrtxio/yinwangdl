@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "什么是\"对用户友好\""
+title: '"什么是"对用户友好""'
 author: 王垠
 created: 2012-05-18
 source: https://www.yinwang.org/posts/user-friendliness

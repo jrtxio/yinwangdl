@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "我为什么离开 Cornell"
+title: '"我为什么离开 Cornell"'
 author: 王垠
 created: 2013-04-10
 source: https://www.yinwang.org/posts/cornell

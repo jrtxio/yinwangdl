@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "谈程序的“通用性”"
+title: '"谈程序的“通用性”"'
 author: 王垠
 created: 2013-04-13
 source: https://www.yinwang.org/posts/generality

@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "程序员的心理疾病"
+title: '"程序员的心理疾病"'
 author: 王垠
 created: 2014-02-09
 source: https://www.yinwang.org/posts/programmer-mental

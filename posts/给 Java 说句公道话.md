@@ -2,7 +2,7 @@
 dg-publish: false
 author: 王垠
 created: 2016-01-18
-source: https://www.yinwang.org
+source: https://www.yinwang.org/posts/java
 ---
 有些人问我，在现有的语言里面，有什么好的推荐？我说：“Java。” 他们很惊讶：“什么？Java！” 所以我现在来解释一下。
 

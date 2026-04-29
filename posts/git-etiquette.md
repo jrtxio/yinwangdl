@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "关于Git的礼节"
+title: '"关于Git的礼节"'
 author: 王垠
 created: 2015-03-11
 source: https://www.yinwang.org/posts/git-etiquette

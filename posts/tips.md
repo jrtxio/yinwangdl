@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "小费和中国人的尊严"
+title: '"小费和中国人的尊严"'
 author: 王垠
 created: 2015-01-19
 source: https://www.yinwang.org/posts/tips

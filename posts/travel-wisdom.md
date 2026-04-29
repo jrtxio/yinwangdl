@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "旅行的智慧"
+title: '"旅行的智慧"'
 author: 王垠
 created: 2017-08-14
 source: https://www.yinwang.org/posts/travel-wisdom

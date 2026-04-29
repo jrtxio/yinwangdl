@@ -2,7 +2,7 @@
 dg-publish: false
 author: 王垠
 created: 2014-04-18
-source: https://www.yinwang.org
+source: https://www.yinwang.org/posts/golang
 ---
 以前写过一些对 Go 语言的负面评价。现在看来，虽然那些评价大部分属实，然而却由于言辞激烈，没有点明具体问题，难以让某些人信服。在经过几个月实际使用 Go 来构造网站之后，我觉得现在是时候对它作一些更加“客观”的评价了。
 

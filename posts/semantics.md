@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "什么是语义学"
+title: '"什么是语义学"'
 author: 王垠
 created: 2012-07-25
 source: https://www.yinwang.org/posts/semantics

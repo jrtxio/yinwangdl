@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "再谈“P vs NP”问题"
+title: '"再谈“P vs NP”问题"'
 author: 王垠
 created: 2019-07-21
 source: https://www.yinwang.org/posts/pnp2

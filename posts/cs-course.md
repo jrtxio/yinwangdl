@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "计算机科学课程"
+title: '"计算机科学课程"'
 author: 王垠
 created: 2020-03-03
 source: https://www.yinwang.org/posts/cs-course

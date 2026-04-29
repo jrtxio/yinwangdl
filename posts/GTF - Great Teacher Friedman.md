@@ -2,7 +2,7 @@
 dg-publish: false
 author: 王垠
 created: 2012-05-18
-source: https://www.yinwang.org
+source: https://www.yinwang.org/blog-cn/2012/05/18/gtf
 ---
 ## 写小人书的老顽童
 

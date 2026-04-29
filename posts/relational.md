@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: "关系式模型的实质"
+title: '"关系式模型的实质"'
 author: 王垠
 created: 2014-04-24
 source: https://www.yinwang.org/posts/relational
