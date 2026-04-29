@@ -3,9 +3,9 @@ require("dotenv").config();
 module.exports = function (eleventyConfig) {
   // Passthrough copies
   eleventyConfig.addPassthroughCopy("images");
-  eleventyConfig.addPassthroughCopy("src/site/styles");
-  eleventyConfig.addPassthroughCopy("src/site/ads.txt");
-  eleventyConfig.addPassthroughCopy("src/site/robots.txt");
+  eleventyConfig.addPassthroughCopy({ "src/site/styles": "styles" });
+  eleventyConfig.addPassthroughCopy({ "src/site/ads.txt": "ads.txt" });
+  eleventyConfig.addPassthroughCopy({ "src/site/robots.txt": "robots.txt" });
 
   // Date formatting filter
   eleventyConfig.addFilter("isodate", (date) => {
