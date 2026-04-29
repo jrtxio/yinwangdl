@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "谈程序的正确性"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/program-correctness

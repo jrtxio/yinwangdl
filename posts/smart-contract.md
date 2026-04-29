@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "智能合约和形式验证"
 author: 王垠
 created: 2018-02-22
 source: https://www.yinwang.org/posts/smart-contract

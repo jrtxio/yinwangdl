@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "空气清新剂的噩梦"
 author: 王垠
 created: 2023-02-03
 source: https://www.yinwang.org/posts/air-freshener-nightmare
@@ -10,7 +11,7 @@ source: https://www.yinwang.org/posts/air-freshener-nightmare
 
 ### Airbnb，噩梦的开始
 
-![](../images/air-freshener-nightmare/airbnb.jpeg)
+![](/images/air-freshener-nightmare/airbnb.jpeg)
 
 刚到英国的时候，因为还没有决定在哪里租房，我订了一家评价非常好的 Airbnb，在一个著名历史建筑的钟楼里面。价格相当贵，房主看起来是一个很有绅士风度的人。然而第一天晚上，我就发现床单，被子，枕套上有很重的"香味"，闻起来很像 20 年前的中国用的那种洗衣粉味道。而且像是没有彻底清洗，残留了很多在被单上。
 
@@ -20,7 +21,7 @@ source: https://www.yinwang.org/posts/air-freshener-nightmare
 
 ### Uber，噩梦的继续
 
-![](../images/air-freshener-nightmare/uber.jpeg)
+![](/images/air-freshener-nightmare/uber.jpeg)
 
 到伦敦的第一天，我已经发现地铁里面的颗粒物污染（pm）非常高，比国内的雾霾还可怕。经我带来的专业仪器测量，某些市中心的车站（比如 Goodge Street）pm2.5 可以超过 300 μg/m3，其中 pm1.0 达到了 200 多。要知道，pm1.0 颗粒是 N95 口罩都挡不了的。Kings Cross, Waterloo 等地铁站的 pm2.5 也超过 100。车厢内的 pm 也可以达到 100-200。这是很危险的，所以我避免长时间坐地铁。
 
@@ -42,7 +43,7 @@ source: https://www.yinwang.org/posts/air-freshener-nightmare
 
 我打开手机，开始搜索这个问题，结果发现这篇文章《[Uber's Drivers and Riders Are Locked in a Pine-Scented Battle](https://www.theatlantic.com/health/archive/2019/05/uber-lyft-air-fresheners/590209/)》。
 
-![](../images/air-freshener-nightmare/article.jpeg)
+![](/images/air-freshener-nightmare/article.jpeg)
 
 文章说很多人都在抱怨 Uber 车的这个气味，但他们却不改，而是以"提高客户体验"，"与 Lyft 竞争"为理由，继续使用这种 Wunder-Baum 品牌（俗称 little tree）的化学空气清新剂片。
 
@@ -98,7 +99,7 @@ But you can never leave…
 
 我又叫了一个 XL 的 Bolt 车，心想这下可以放心了。然而一进 Bolt 车，我闻到那个熟悉的气味，而且很浓。天哪！我觉得自己就要死在伦敦了。我终于拿出了国内买的防毒面具，装上过滤毒气的滤芯。这个防毒面具，我本来是想在离开中国的最后关头，如果遇到强烈的雾霾，保命用的。没想到在英国派上了用场。
 
-![](../images/air-freshener-nightmare/gas-mask.jpeg)
+![](/images/air-freshener-nightmare/gas-mask.jpeg)
 
 戴上防毒面具，那气味逐渐地淡了，可是 Bolt 司机仍然热情好客地跟我说话，问我是哪里来的，还给我说他的故事。隔着防毒面具说话他听不见，我只好短暂揭开面具，跟他说对不起，我现在不能说话。过一会他又尝试了几次跟我说话，终于发现我不会再回复了。就这样，我到了酒店，终于安心地睡了一晚。
 
@@ -116,7 +117,7 @@ But you can never leave…
 
 司机看我的神情，还是很关心的样子。他指着前排乘客座位下面，说："应该就是那个东西吧？" 我一看，果然就是那篇文章里讲到的 little tree！
 
-![](../images/air-freshener-nightmare/little-tree.jpeg)
+![](/images/air-freshener-nightmare/little-tree.jpeg)
 
 这个座位是因为我有很多行李，才翻起来腾地方给行李的。要是这个座位起初是放下来的，我就看不见它了。如果是普通无害的空气清新剂，为何需要如此隐藏它，为何不挂在显眼的地方，向顾客显示"服务品质"呢？你想想，哪个 SPA 会遮掩美丽的香薰瓶子，当然都摆在显眼的，顾客看得见的位置。
 
@@ -128,17 +129,17 @@ But you can never leave…
 
 我对伦敦的环境很不满意，所以决定去苏格兰看看。我听说爱丁堡是一个很美的城市，所以考虑住在爱丁堡。为了考察爱丁堡，我订了一个照片看起来很惬意的 Airbnb。
 
-![](../images/air-freshener-nightmare/edinburgh.jpeg)
+![](/images/air-freshener-nightmare/edinburgh.jpeg)
 
 我以为这噩梦只存在于嘈杂的英格兰，然而当我推开这个美丽的 Airbnb 的大门，一股浓烈的空气清新剂味道扑面而来。一开灯，我就看见了窗户上的蛛网，我发现壁炉是假的，只是一个装饰，房子的实际状况跟照骗相差很多，卫生间小得转不过身。我确实是在演出恐怖片。
 
 空气清新剂的味道很浓，我赶紧打开所有的窗户换气，自己出去吃饭去了。风比较大，回来之后，气味基本散掉了。因为天气冷，我关上了窗户。过了一会，我又开始闻到那个味道，而且越来越浓。我开始在屋里寻找气味的来源，终于发现了这个 febreze 香薰机。气味就是它发出来的，它的开关设置在最大档，瓶里的液体都快没了。
 
-![](../images/air-freshener-nightmare/febreze.jpeg)
+![](/images/air-freshener-nightmare/febreze.jpeg)
 
 febreze 是我在美国见过的品牌，但我在美国从来不买这种东西，因为它的味道真的很不好。我把它从插座上取下来，拿出里面的瓶子，生产商是 P&G。
 
-![](../images/air-freshener-nightmare/febreze-label.jpeg)
+![](/images/air-freshener-nightmare/febreze-label.jpeg)
 
 我仔细看了它的成分表，里面没有任何一个成分是天然的。没有精油，没有花，没有任何天然草药或香料。全部都是不认识的化学品名字。两个红色的框里，一个画着巨大的惊叹号，一个画着死树/死鱼的符号。能把树和鱼毒死的物质，居然让人吸进肺里，美其名曰"空气清新剂"。是的，肯定有官方检测机构告诉你，这个对人体无害。然而它却能毒死树和鱼！
 
@@ -152,15 +153,15 @@ febreze 是我在美国见过的品牌，但我在美国从来不买这种东西
 
 我走进厨房，打开洗碗池下面的橱柜，一股刺鼻的"香味"扑面而来。里面有很多清洁用品，最后我的目光落在了角落里的一个盒子上，因为它看起来像是 20 年前的中国使用的洗衣粉。
 
-![](../images/air-freshener-nightmare/detergent.jpeg)
+![](/images/air-freshener-nightmare/detergent.jpeg)
 
 我打开盖子，确定了它就是那个味道的来源，非常的浓烈。果然，里面的粉末看起来就是 20 年前的中国使用的洗衣粉。我已经很多年没用过这样的东西洗衣服，它却出现在今天的英国。
 
-![](../images/air-freshener-nightmare/detergent-powder.jpeg)
+![](/images/air-freshener-nightmare/detergent-powder.jpeg)
 
 在盒子侧面，我看到了它的成分，只是说了化学物质的大类，却没有列出具体的化学名称。生厂商和那个 febreze 香薰一样，也是 P&G。
 
-![](../images/air-freshener-nightmare/detergent-label.jpeg)
+![](/images/air-freshener-nightmare/detergent-label.jpeg)
 
 我又看到了那个巨大的红框和惊叹号。旁边写着这样的警告：
 
@@ -174,7 +175,7 @@ Causes serious eye irritation. Keep out of reach of children. IF IN EYES: Rinse 
 
 我在 Airbnb app 提交了 change dates 申请，把行程缩短到了一天。我给房主发了信息，说被单上有浓烈的洗衣粉味道，导致我不能入睡，而且身上过敏起包，不得不缩短行程。房主同意了，但回答我说："你是第一个抱怨这个事的人。"
 
-![](../images/air-freshener-nightmare/airbnb-chat.jpeg)
+![](/images/air-freshener-nightmare/airbnb-chat.jpeg)
 
 "你是第一个抱怨的人"，如此熟悉的答复。之前的 Uber 司机也是这样对我说的。我怎么感觉他们接受了某种特殊的心理操纵训练，遇到客户的这种反馈，就回复"你是第一个抱怨这个的人"。这样就能让客户糊涂，以为是自己有问题，是自己太敏感，体质不好，等等。然而我很确定的是，我很不容易过敏，而且并不比常人敏感。我只是明白什么是正常的，什么不是。
 
@@ -182,9 +183,9 @@ Causes serious eye irritation. Keep out of reach of children. IF IN EYES: Rinse 
 
 查阅网络，我发现早在 2016 年，已经有 Airbnb 的房主在讨论区问了这个[关于洗衣粉的问题](https://community.withairbnb.com/t5/Hosting/Guest-s-allergies-to-laundry-detergent/td-p/237722)，说有客人对这种洗衣粉的气味过敏。另一个房主回复她说，这些所谓的"清新气味"其实都是有毒的化学品，它们不只导致过敏，而且攻击人体的各种功能。所以显然不只我一个人抱怨过这个问题。
 
-![](../images/air-freshener-nightmare/forum1.jpeg)
+![](/images/air-freshener-nightmare/forum1.jpeg)
 
-![](../images/air-freshener-nightmare/forum2.jpeg)
+![](/images/air-freshener-nightmare/forum2.jpeg)
 
 朋友建议我给这个 Airbnb 写一个差评，然而我知道，差评是不会登上第一页，让其它客户看见的。包庇房主是对平台有好处的，所以能看见的全都是好评。上一个 Airbnb 也是这样，好评如潮，都在说房子有多干净，房主人有多好，多贴心。
 
@@ -196,15 +197,15 @@ Causes serious eye irritation. Keep out of reach of children. IF IN EYES: Rinse 
 
 我说，喷的就是这个？这味道可比臭味可怕多了，而且持久不散。他点点头，然后帮我找另外的房间。
 
-![](../images/air-freshener-nightmare/hotel-spray.jpeg)
+![](/images/air-freshener-nightmare/hotel-spray.jpeg)
 
 看这瓶子的样子和液体的颜色，我就知道这东西完全是化学品，是有毒的，像是化学实验室或者修车厂用的东西。我看了一下瓶子背面，想知道它的成分，然而它没有写明成分，只是有个红框，里面是火焰的符号：Danger！下面写着：Highly flammable liquid and vapour（高度可燃的液体和蒸汽）。
 
-![](../images/air-freshener-nightmare/hotel-spray-label.jpeg)
+![](/images/air-freshener-nightmare/hotel-spray-label.jpeg)
 
 早上起来的时候，我看见服务员在打扫旁边的房间，推车旁边的篮子里放着 4 瓶这个空气清新剂。为什么需要放 4 瓶在篮子里？如果每天喷完一瓶这东西，那么只需要备一瓶，带两瓶就够了。放 4 瓶在篮子里，说明他们每天要喷多少这东西在房间里？
 
-![](../images/air-freshener-nightmare/hotel-cart.jpeg)
+![](/images/air-freshener-nightmare/hotel-cart.jpeg)
 
 ### 有毒的消毒水
 
@@ -214,7 +215,7 @@ Causes serious eye irritation. Keep out of reach of children. IF IN EYES: Rinse 
 
 有一天回到酒店，发现走道里很浓的化学气味，比之前还要刺鼻，吸进肺里就感觉有毒。转过角，看到服务员在打扫过道。她用一个拖布在仔仔细细地擦过道的地板，不放过任何一个角落。我问她，你是在用水擦地板吗？她说不是，这是"专业清洁剂"。我说，这就是这个气味的来源？她说是的。我说，这个味道也太浓了。她说，但这是我们必须用的……
 
-![](../images/air-freshener-nightmare/cleaner.jpeg)
+![](/images/air-freshener-nightmare/cleaner.jpeg)
 
 本来地板用水擦一下就干净了，却仔仔细细用这种有强烈气味的清洁剂擦洗。"这是我们必须用的"，几乎每一个英国的酒店都是如此，即使这个气味根本不符合酒店的风格。这说明有强大的组织在背后指使，强迫他们使用这种有毒气味的清洁剂，强迫客人吸入这些气体。
 
@@ -224,7 +225,7 @@ Causes serious eye irritation. Keep out of reach of children. IF IN EYES: Rinse 
 
 另外，我查了一下这些空气清新剂的制造商 Ecolab 公司的资料，发现一些很可疑的背景。看看他们的[最大股东](https://www.barrons.com/articles/bill-gates-ecolab-stock-51660936071)是谁，他为什么对这样的公司有这么大的投资兴趣？如果你明白他投资的各种"疫苗"给世界带来了多大的灾难，害死了多少人，就能明白这大概是怎么回事了。
 
-![](../images/air-freshener-nightmare/ecolab.jpeg)
+![](/images/air-freshener-nightmare/ecolab.jpeg)
 
 所以最后，Sherlock Wang 完成了自己的任务，他找到了酒店里的那个可怕气味的来源。它是一种具体名字未知，高度可燃的化学物质，却被批准在酒店大规模使用，让每个客人被迫吸入。
 
@@ -246,9 +247,9 @@ Causes serious eye irritation. Keep out of reach of children. IF IN EYES: Rinse 
 
 今天（3 月 9 日）早上起来出门，我发现公寓楼的电梯和楼下出口处，地板都是湿的，覆盖着厚厚一层液体，空气里弥漫着浓烈的化学空气清新剂（消毒水）味道。在此之前还有一天，我也发现这样的情况。由于公寓的内走廊和防火门设计，完全阻止了空气流通，这个味道很不容易散掉。
 
-![](../images/air-freshener-nightmare/apartment-floor1.jpeg)
+![](/images/air-freshener-nightmare/apartment-floor1.jpeg)
 
-![](../images/air-freshener-nightmare/apartment-floor2.jpeg)
+![](/images/air-freshener-nightmare/apartment-floor2.jpeg)
 
 这个公寓楼的电梯和过道上一直都有这个气味，而且我租房时看过的另一个公寓楼的过道里也充满了这种气味。看来有人周期性地在所有的公寓楼的电梯和过道里喷洒这种有毒的东西，应该不只是我偶然碰上的这两次。
 
@@ -266,9 +267,9 @@ Causes serious eye irritation. Keep out of reach of children. IF IN EYES: Rinse 
 
 英国人民的"新冠症状"，一部分应该就是由这些空气清新剂或消毒水里面的有毒化学物质导致的。再加上好几个其它方面的问题，比如地铁里面的颗粒物污染（pm2.5）非常高，天上有非常密集的可疑飞机尾迹（化学尾迹），我觉得整个英国都以多种方式在放毒。我以为离开了中国那个可怕的雾霾之国，我疲惫的身体能暂缓一下了。我错了，我只是进了另一个火坑。
 
-![](../images/air-freshener-nightmare/chemtrails1.jpeg)
+![](/images/air-freshener-nightmare/chemtrails1.jpeg)
 
-![](../images/air-freshener-nightmare/chemtrails2.jpeg)
+![](/images/air-freshener-nightmare/chemtrails2.jpeg)
 
 ### 给全世界的警示
 

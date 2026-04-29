@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "给Java说句公道话"
 author: 王垠
 created: 2016-01-18
 source: https://www.yinwang.org/posts/java

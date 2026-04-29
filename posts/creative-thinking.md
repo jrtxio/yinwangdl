@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "创造者的思维方式"
 author: 王垠
 created: 2015-02-01
 source: https://www.yinwang.org/posts/creative-thinking

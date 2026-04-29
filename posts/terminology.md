@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "几个超炫的专业词汇"
 author: 王垠
 created: 2013-04-15
 source: https://www.yinwang.org/posts/terminology
@@ -8,7 +9,7 @@ source: https://www.yinwang.org/posts/terminology
 
 * Yoda Notation（Yoda 表示法）
 
-  ![](../images/terminology/yoda-notation.jpeg)
+  ![](/images/terminology/yoda-notation.jpeg)
 
   在 C/C++ 里面使用这样的表达式顺序：
 
@@ -30,7 +31,7 @@ source: https://www.yinwang.org/posts/terminology
 
 * Mental Speedbump（头脑减速杠）
 
-  ![](../images/terminology/speedbump.jpeg)
+  ![](/images/terminology/speedbump.jpeg)
 
   由于设计的不协调性造成的用户的注意力分散。比如，很多软件喜欢弹出一个窗口问你“是否继续？”
 
@@ -46,7 +47,7 @@ source: https://www.yinwang.org/posts/terminology
 
 * Sins of our Forefathers（先辈的罪）
 
-  ![](../images/terminology/sins-fathers.jpeg)
+  ![](/images/terminology/sins-fathers.jpeg)
 
   当时看起来合乎逻辑并且合情合理最后回顾起来却很傻 b 的历史遗留设计。
 
@@ -61,14 +62,14 @@ source: https://www.yinwang.org/posts/terminology
 * Workaround（变通）
 
 ```
-![](../images/terminology/workaround.png)
+![](/images/terminology/workaround.png)
 ```
 
   因为开发过程的失败而让用户必须进行的一些操作。这些通常是设计失误。
 
 * Jenga Code
 
-  ![](../images/terminology/jenga-code.jpg)
+  ![](/images/terminology/jenga-code.jpg)
 
   当你加上一小块代码之后，就整个垮掉的那种代码。
 

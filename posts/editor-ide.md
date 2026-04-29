@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "编辑器与IDE"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/editor-ide

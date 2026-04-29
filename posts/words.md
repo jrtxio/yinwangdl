@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "网络用语"
 author: 王垠
 created: 2017-11-05
 source: https://www.yinwang.org/posts/words

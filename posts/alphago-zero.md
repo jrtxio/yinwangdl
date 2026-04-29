@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "AlphaGo Zero 和强人工智能"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/alphago-zero

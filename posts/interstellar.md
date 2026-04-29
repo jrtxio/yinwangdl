@@ -1,10 +1,11 @@
 ---
 dg-publish: false
+title: "恶评《星际穿越》"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/interstellar
 ---
-![[Pasted image 20231218101353.png|250]]
+![Pasted image 20231218101353.png](/images/interstellar/Pasted image 20231218101353.png)
 
 （Spoiler 警告，本文含有大量具体情节！）
 

@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "设计的重要性"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/design
@@ -16,7 +17,7 @@ source: https://www.yinwang.org/posts/design
 
 如果你跟我一样关心设计，却发现身边的人喜欢显示自己能搞懂复杂的东西，跟你说容易的东西都是菜鸟用的，那么你需要一个朋友。书籍是人类最好的朋友，因为它的作者可以跨越时间和空间的限制，给你最需要的支持和鼓励。这就是当我阅读这本 1988 年出版的《The Design of Everyday Things》（简称 DOET）时的感觉。我觉得，终于有人懂我了！有趣的是，它的作者 Don Norman 曾经是 Apple Fellow，也是《The Unix-Haters Handbook》一书序言的作者。
 
-![[Pasted image 20231213093737.png]]
+![Pasted image 20231213093737.png](/images/design/Pasted image 20231213093737.png)
 
 DOET 不但包含并且支持了我的博文《[[黑客文化的精髓]]》以及《[[程序语言与……]]》里的基本观点，而且提出了比《[[什么是 “对用户友好”]]》更精辟可行的解决方案。
 

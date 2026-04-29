@@ -1,10 +1,11 @@
 ---
 dg-publish: false
+title: "一个对 Dijkstra 的采访视频"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/dijkstra-interview
 ---
-![[Pasted image 20231218101137.png|650]]
+![Pasted image 20231218101137.png](/images/dijkstra-interview/Pasted image 20231218101137.png)
 
 （也可以访问 [YouTube](http://www.youtube.com/watch?v=RCCigccBzIU) 或者从源地址下载 [MPEG1](http://www.cs.utexas.edu/users/EWD/video-audio/NoorderlichtVideo.html)，300M）
 

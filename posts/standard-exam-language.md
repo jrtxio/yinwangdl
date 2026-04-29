@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "标准化试卷标记语言"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/standard-exam-language

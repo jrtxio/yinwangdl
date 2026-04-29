@@ -120,10 +120,10 @@ def replace_image_paths(content: str, slug: str) -> str:
         url = m.group(2)
         if url.startswith("/images/"):
             filename = os.path.basename(url)
-            return f"![{alt}](../images/{slug}/{filename})"
+            return f"![{alt}](/images/{slug}/{filename})"
         elif url.startswith("/"):
             filename = os.path.basename(url)
-            return f"![{alt}](../images/{slug}/{filename})"
+            return f"![{alt}](/images/{slug}/{filename})"
         return m.group(0)
 
     content = re.sub(r"!\[([^\]]*)\]\(([^)]+)\)", md_replacer, content)
@@ -135,10 +135,10 @@ def replace_image_paths(content: str, slug: str) -> str:
         suffix = m.group(3)
         if url.startswith("/images/"):
             filename = os.path.basename(url)
-            return f'{prefix}src="../images/{slug}/{filename}"{suffix}'
+            return f'{prefix}src="/images/{slug}/{filename}"{suffix}'
         elif url.startswith("/"):
             filename = os.path.basename(url)
-            return f'{prefix}src="../images/{slug}/{filename}"{suffix}'
+            return f'{prefix}src="/images/{slug}/{filename}"{suffix}'
         return m.group(0)
 
     content = re.sub(r"(<img[^>]*)(src=[\"\x27])([^\"\x27]+)([\"\x27][^>]*>)", html_replacer, content)
@@ -180,9 +180,11 @@ def format_content(content: str) -> str:
 
 def generate_frontmatter(post: dict) -> str:
     """Generate YAML frontmatter for a post."""
+    title = post.get("title", "").replace('"', '\\"')
     return (
         "---\n"
         "dg-publish: false\n"
+        f"title: \"{title}\"\n"
         f"author: 王垠\n"
         f"created: {post.get('publish_date', '')}\n"
         f"source: {BASE_URL}/posts/{post['slug']}\n"

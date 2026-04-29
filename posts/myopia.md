@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "自然视力恢复法"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/myopia
@@ -19,23 +20,23 @@ source: https://www.yinwang.org/posts/myopia
 
 ## 眼球外部肌肉的秘密
 
-![[eye-muscles.jpg]]
+![eye-muscles.jpg](/images/myopia/eye-muscles.jpg)
 
 近视的成因，得从眼球外部肌肉说起。眼球的外面有 6 块精密的肌肉（4 块直肌，2 块斜肌）。很多人以为这些外部肌肉只是用于转动眼球，而 100 年前有个叫 W. H. Bates 的眼科专家通过对动物眼睛做实验发现，这些肌肉也能改变眼球的形状，进行精密的对焦操作。
 
-![[eye-muscles2.jpg]]
+![eye-muscles2.jpg](/images/myopia/eye-muscles2.jpg)
 
 从图中可以看到，那两块斜肌环绕着眼球侧面，可以一起产生侧向的压力，通过挤压使眼球变长，而那四块直肌一起向后用力，就可以让眼球变短。Bates 的实验（通过给这些肌肉通电），也显示了以上的现象。在这 6 块肌肉的相互作用下，眼球随时都在改变形状。
 
 通常认为人眼只是用睫状肌改变晶状体的形状进行对焦，而其实眼球外部的肌肉也同时参与了这个操作，它们通过改变眼球的形状（改变眼轴长度）来进行对焦。你可以认为眼球是一个底片可以活动的相机，它可以通过改变镜头（晶状体）的焦距进行对焦，也可以通过同时改变底片（视网膜）的位置来进行对焦。
 
-![[eye-camera.jpg]]
+![eye-camera.jpg](/images/myopia/eye-camera.jpg)
 
 相对于晶状体的对焦范围，改变眼球形状能获得的改变很小。也许可以认为晶状体是进行“粗略对焦”，而外部肌肉改变眼球形状是在进行“精密对焦”。因为外部肌肉能改变眼球的形状，所以它们对于近视的形成和逆转起着关键性作用。
 
 ## 近视产生的原理
 
-![[behind-retina.jpg]]
+![behind-retina.jpg](/images/myopia/behind-retina.jpg)
 
 看近的时候，如果眼球完全放松，成像就会落到视网膜后面。为了看清物体，晶状体需要被压缩，增大屈光。同时眼球的形状也可能被外部肌肉稍微拉长，这样成像就能正好落在视网膜上。看近的时间太长，眼球就可能持续处于被拉长的状态。长期保持这种形状，眼轴就变长了，看远的时候也回不去，以至于看不清远处物体，就近视了。
 
@@ -73,7 +74,7 @@ source: https://www.yinwang.org/posts/myopia
 
 ## 近视逆转的原理
 
-![[infront-retina.jpg]]
+![infront-retina.jpg](/images/myopia/infront-retina.jpg)
 
 近视的自然逆转，关键在于“看远”。注意这里的“看远”是加了引号的。
 
@@ -91,9 +92,9 @@ source: https://www.yinwang.org/posts/myopia
 
 最简单粗暴的逆转近视的方法，就是完全不戴眼镜。最近有一个 18 岁的年轻人，本来双眼近视 600 多度，听了我讲的原理之后，开始平时完全不戴眼镜（除了必须看清远处的时候），结果 3 个月之后度数降低了 100 度左右。
 
-![[nora-chat1.jpg]]
+![nora-chat1.jpg](/images/myopia/nora-chat1.jpg)
 
-![[nora-chat2.jpg]]
+![nora-chat2.jpg](/images/myopia/nora-chat2.jpg)
 
 高度近视的人完全不戴眼镜生活，当然可能是相当痛苦的，所以我建议稍缓和的方式，也就是戴“低度数眼镜”。方法是这样，如果你近视 600 度，就把眼镜度数降低 100 度，配一副 500 度的眼镜，散光不要减。你戴上它之后看到的景象，就相当于一个只近视 100 度的人，生活几乎不受影响。
 

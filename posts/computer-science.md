@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "解谜计算机科学"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/computer-science
@@ -43,13 +44,13 @@ source: https://www.yinwang.org/posts/computer-science
 
 对于以上的手指算术 `4 + 3`，我们可以用下图来表示它：
 
-![[adder.png]]
+![adder.png](/images/computer-science/adder.png)
 
 图中的箭头表示信息的流动方向。说到“流动”，你可以想象一下水的流动。首先我们看到数字 4 和 3 流进了一个圆圈，圆圈里有一个“+”号。这个圆圈就是你，一个会做手指加法的小孩。妈妈给你两个数 4 和 3，你现在把它们加起来，得到 7 作为结果。
 
 注意圆圈的输入和输出方向是由箭头决定的，我们可以根据需要调整那些箭头的位置，只要箭头的连接关系和方向不变就行。它们不一定都是从左到右，也可能从右到左或者从上到下，但“出入关系”都一样：4 和 3 进去，结果 7 出来。比如它还可以是这样：
 
-![[adder-topdown.png]]
+![adder-topdown.png](/images/computer-science/adder-topdown.png)
 
 我们用带加号的圆圈表示一个“加法器”。顾名思义，加法器可以帮我们完成加法。在上个例子里，你就是一个加法器。我们也可以用其他装置作为加法器，比如一堆石头，一个算盘，某种电子线路…… 只要它能做加法就行。
 
@@ -67,7 +68,7 @@ source: https://www.yinwang.org/posts/computer-science
 
 这个表达式比 `4 + 3` 多了一个运算，我们把它叫做“复合表达式”。这个表达式也可以用计算图来表示：
 
-![[add-mult.png]]
+![add-mult.png](/images/computer-science/add-mult.png)
 
 你知道它为什么是这个样子吗？它表示的意思是，先计算 `4 + 3`，然后把结果（7）传送到一个“乘法器”，跟 2 相乘，得到最后的结果。那正好就是 `2 * (4 + 3)` 这个表达式的含义，它的结果应该是 14。
 
@@ -89,7 +90,7 @@ source: https://www.yinwang.org/posts/computer-science
 
 注意，由于我们之前讲过的符号和模型的差别，为了完全忠于我们的本质认识，这里的“表达式 + 表达式”虽然看起来是一串符号，它必须被想象成它所对应的模型。当你看到“表达式”的时候，你的脑子里应该浮现出它对应的计算图，而不是一串符号。这个计算图的画面大概是这个样子，其中左边的大方框里可以是任意两个表达式。
 
-![[expression-graph.png]]
+![expression-graph.png](/images/computer-science/expression-graph.png)
 
 是不是感觉这个定义有点奇怪？因为在“表达式”的定义里，我们用到了“表达式”自己。这种定义叫做“递归定义”。所谓**递归**（recursion），就是在一个东西的定义里引用这个东西自己。看上去很奇怪，好像绕回去了一样。递归是一个重要的概念，我们会在将来深入理解它。
 
@@ -109,7 +110,7 @@ source: https://www.yinwang.org/posts/computer-science
 
 它对应一个什么样的计算图呢？大概是这样：
 
-![[parallel.png]]
+![parallel.png](/images/computer-science/parallel.png)
 
 如果妈妈只有你一个小孩，你应该如何用手指算出它的结果呢？你大概有两种办法。
 
@@ -240,11 +241,11 @@ t -> t*2
 
 你可以把 `t` 想象成从温度传感器出来的一根电线，它连接到风扇控制器上，风扇控制器会把它的输入（t）乘以 2。这个画面像这个样子：
 
-![[function1.png]]
+![function1.png](/images/computer-science/function1.png)
 
 我们谈论风扇控制器的时候，其实不关心它的输入是哪里来的，输出到哪里去。如果我们把温度传感器和风扇从画面里拿掉，就变成这个样子：
 
-![[function2.jpg]]
+![function2.jpg](/images/computer-science/function2.jpg)
 
 这幅图才是你需要认真理解的函数的计算图。你发现了吗，这幅图画正好对应了之前的风扇控制器的符号表示：`t -> t*2`。看到符号就想象出画面，你就得到了符号背后的模型。
 
@@ -267,13 +268,13 @@ t -> t*2
 
 它可以被想象成什么样的画面呢？
 
-![[wire.png]]
+![wire.png](/images/computer-science/wire.png)
 
 我故意把箭头方向画成从右往左，这样它就更像上面的代码。从这个图画里，你也许可以看到变量 `a` 和风扇控制器图里的参数 `t`，其实没有任何本质差别。它们都表示一根电线，那根电线进入乘法器，将会被乘以 2，然后输出。如果你把这些都看成是电路，那么变量 `a` 和参数 `t` 都代表一根电线而已。
 
 然后你还发现一个现象，那就是你可以把 `a` 这个名字换成任何其它名字（比如 `b`），而这幅图不会产生实质的改变。
 
-![[rename.png]]
+![rename.png](/images/computer-science/rename.png)
 
 这说明什么问题呢？这说明以下的代码（把 `a` 换成了 `b）`跟之前的是等价的：
 
@@ -358,7 +359,7 @@ f(t) = t*2
 
 我们可以把它图示如下：
 
-![[branch.png]]
+![branch.png](/images/computer-science/branch.png)
 
 中间这种判断结构叫做“分支”（branching），它一般用菱形表示。为什么叫分支呢？你想象一下，代码就像一条小溪，平时它沿着一条路线流淌。当它遇到一个棱角分明的大石头，就分成两个支流，分开流淌。
 

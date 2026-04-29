@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "Tesla autopilot 引起致命车祸"
 author: 王垠
 created: 2016-07-10
 source: https://www.yinwang.org/posts/tesla-autopilot-fatal-crash

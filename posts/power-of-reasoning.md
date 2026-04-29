@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "理性的力量"
 author: 王垠
 created: 2017-11-01
 source: https://www.yinwang.org/posts/power-of-reasoning

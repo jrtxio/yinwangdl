@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "原因与证明"
 author: 王垠
 created: 2013-04-26
 source: https://www.yinwang.org/posts/reason-and-proof

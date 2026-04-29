@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "程序语言的常见设计错误(2) - 试图容纳世界"
 author: 王垠
 created: 2013-04-18
 source: https://www.yinwang.org/posts/language-design-mistake2

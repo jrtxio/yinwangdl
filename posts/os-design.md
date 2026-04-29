@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "一种新的操作系统设计"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/os-design

@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "图灵的光环"
 author: 王垠
 created: 2015-10-18
 source: https://www.yinwang.org/posts/turing

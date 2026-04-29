@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "DSL 的误区"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/dsl

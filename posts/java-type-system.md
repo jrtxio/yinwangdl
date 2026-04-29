@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "一道 Java 面试题"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/java-type-system

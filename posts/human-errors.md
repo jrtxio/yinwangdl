@@ -1,18 +1,19 @@
 ---
 dg-publish: false
+title: "所谓“人为错误”"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/human-errors
 ---
 昨天是一个让人悲哀的日子。旧金山湾区主要的上下班交通工具 Caltrain，在 24 小时之内发生三次事故，撞死三人。其中一次事故发生在 Menlo Park，一辆汽车被困在铁轨上，因为被前后的车辆堵塞而无法逃避，终于被飞驰而来的列车撞成一堆废铁。开车人被消防队员从残骸里切割出来，送往医院后不久死亡。([新闻视频](http://www.ktvu.com/story/28193228/driver-killed-in-menlo-park-caltrain-accident-was-trapped-on-tracks)）
 
-![[caltrain-accident1.jpg]]
+![caltrain-accident1.jpg](/images/human-errors/caltrain-accident1.jpg)
 
-![[caltrain-accident2.jpg]]
+![caltrain-accident2.jpg](/images/human-errors/caltrain-accident2.jpg)
 
 我为生命的殒灭而悲哀，然而让我更加悲哀的是，每当这样的事故发生，总有人指责说是“人为错误”。比如，Twitter 上有人说这事故是因为死者没有遵守交通规则，才导致自己的汽车被困在铁轨之上，所以她死的活该。
 
-![[caltrain-accident-twitter.png]]
+![caltrain-accident-twitter.png](/images/human-errors/caltrain-accident-twitter.png)
 
 真的是因为她不遵守交通规则吗？真的有人愿意把车停在铁轨上等死吗？也许是这规则没法遵守，或者设计得让人很容易“违反”呢？
 
@@ -25,7 +26,7 @@ source: https://www.yinwang.org/posts/human-errors
 
 如果你仔细看看卫星图，就会发现铁轨前方的道路狭窄，而且不远处有一个红绿灯。如果这个红绿灯变红，那么就有可能把直到铁轨处的车辆全都叫停。如果你熟悉湾区的道路，就知道红灯处是 82 号公路（El Camino Real），上那条路的红灯经常等很久。也就是说，可能有很多车在那里等红灯，一直到铁轨的地方！
 
-![[ravenswood-ave.png]]
+![ravenswood-ave.png](/images/human-errors/ravenswood-ave.png)
 
 如果你再仔细一点，用 Google Map 的 street view 去实地看一下那个路口，就会发现，地面上的”KEEP CLEAR”字样，其实是用来给被堵在铁轨上的车预留后路的。然后你就发现，如果后面的车不遵守 KEEP CLEAR 的指令，那么它们就会断掉铁轨上的车的退路。所以，其实不是铁轨上的车自己等死，而是后面那些不遵守 KEEP CLEAR 指令的车，把它逼上了绝路。然而就像我之前提到的，想要遵守 KEEP CLEAR 又是很模棱两可的事情，后面的车有可能以为你过得去，所以才跟上的。所以你死了，不能怪火车，不能怪你自己，不能怪前面的车，还不能怪后面的车！怪谁呢？只能怪路口的“设计”！
 

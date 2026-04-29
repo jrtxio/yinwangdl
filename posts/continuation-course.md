@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "continuation 和并发计算专项班"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/continuation-course

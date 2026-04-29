@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "谈语法"
 author: 王垠
 created: 2013-03-08
 source: https://www.yinwang.org/posts/on-syntax
@@ -20,7 +21,7 @@ source: https://www.yinwang.org/posts/on-syntax
 
 Lisp （Scheme 的前身）是世界上第二老的程序语言。最老的是 Fortran。Fortran 的程序，最早的时候都是用打孔机打在卡片上的，所以它其实是几乎没有语法可言的。
 
-![Fortran](../images/on-syntax/punch-card.gif)
+![Fortran](/images/on-syntax/punch-card.gif)
 
 显然，这样写程序很痛苦。但是它却比现代的很多语言有一个优点：它没有歧义，没有复杂的 parse 过程。
 

@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "关于语言的思考"
 author: 王垠
 created: 2013-04-17
 source: https://www.yinwang.org/posts/languages

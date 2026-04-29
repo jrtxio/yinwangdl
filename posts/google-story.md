@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "我和 Google 的故事（2012 年原版）"
 author: 王垠
 created: 2026-04-15
 source: https://www.yinwang.org/posts/google-story

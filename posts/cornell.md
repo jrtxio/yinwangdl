@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "我为什么离开 Cornell"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/cornell

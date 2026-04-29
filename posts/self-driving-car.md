@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "我看自动驾驶技术"
 author: 王垠
 created: 2016-02-12
 source: https://www.yinwang.org/posts/self-driving-car

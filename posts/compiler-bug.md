@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "C 编译器优化的 Bug"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/compiler-bug

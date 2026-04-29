@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "如何掌握所有的程序语言"
 author: 王垠
 created: 2017-07-06
 source: https://www.yinwang.org/posts/master-pl

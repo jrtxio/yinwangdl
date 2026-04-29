@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "PySonar2 与 Sourcegraph 集成完毕"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/pysonar2-sg
@@ -10,7 +11,7 @@ source: https://www.yinwang.org/posts/pysonar2-sg
 
 PySonar2 的类型推导系统能够不依赖类型标记却精确地分析出 Python 函数的参数类型。比如下图所示的 Flask 框架的最常用的五个函数的参数，都是用通常的方法很难确定类型的，PySonar2 却能得知它们的正确用法。
 
-![[pysonar2-sg-flask.png]]
+![pysonar2-sg-flask.png](/images/pysonar2-sg/pysonar2-sg-flask.png)
 
 最有意思的是那个 `render_template`。PySonar2 为它推导出来的类型是一个 intersection type：
 
@@ -34,7 +35,7 @@ Sourcegraph 有一些不为人知的巧妙设计，但是由于 Quinn 和 Beyang
 
 方法很简单：把你的 GitHub 地址去掉 `http://`之后放到 `http://sourcegraph.com/` 后面，然后 Sourcegraph 就会显示一个等待页面，同时自动开始分析这个 repo。
 
-![[sg-start-process.png]]
+![sg-start-process.png](/images/pysonar2-sg/sg-start-process.png)
 
 举个例子，如果你想分析 `http://github.com/myname/myrepo` 的代码，就在浏览器输入地址：
 
@@ -48,17 +49,17 @@ http://sourcegraph.com/github.com/myname/myrepo
 
 你也许发现有些人在自己的 GitHub 里有 Sourcegraph 徽章，这样一来别人就能得知你的代码库的一些统计信息。比如我的 psydiff 的 README 里面有这样一个：
 
-![[psydiff-badge.png]]
+![psydiff-badge.png](/images/pysonar2-sg/psydiff-badge.png)
 
 它表示 psydiff 的代码被看过的次数。你也可以使用其他的一些徽章，比如最常用的函数，交叉引用数，用户数，等等：
 
-![[sg-badges.png]]
+![sg-badges.png](/images/pysonar2-sg/sg-badges.png)
 
 要得到这些徽章很简单，只要在你的 repo 的 Sourcegraph 主页里点击如图所示的扳手状小图标，然后把 “Image URL” 拷贝到你的网页里就行：
 
-![[sg-settings.png]]
+![sg-settings.png](/images/pysonar2-sg/sg-settings.png)
 
-![[badge-image-url.png]]
+![badge-image-url.png](/images/pysonar2-sg/badge-image-url.png)
 
 Sourcegraph 的功能虽然非常强劲，但是很多设计的工作还处于起步阶段。如果你有什么建议或者发现问题，请联系我们：hi@sourcegraph.com.
 

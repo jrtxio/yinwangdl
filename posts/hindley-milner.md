@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "Hindley-Milner 类型系统的根本性错误"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/hindley-milner

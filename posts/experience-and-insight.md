@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "经验和洞察力"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/experience-and-insight

@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "程序语言的常见设计错误(1) - 片面追求短小"
 author: 王垠
 created: 2013-03-15
 source: https://www.yinwang.org/posts/language-design-mistake1

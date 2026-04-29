@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "什么是启发"
 author: 王垠
 created: 2013-04-12
 source: https://www.yinwang.org/posts/inspiration

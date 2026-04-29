@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "如何阅读别人的代码"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/how-to-read-code

@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "对 Parser 的误解"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/parser

@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "对 Rust 语言的分析"
 author: 王垠
 created: 2016-09-18
 source: https://www.yinwang.org/posts/rust

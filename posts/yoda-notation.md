@@ -1,12 +1,13 @@
 ---
 dg-publish: false
+title: "Yoda 表示法错在哪里"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/yoda-notation
 ---
 ## Yoda Notation（Yoda 表示法）
 
-![[Pasted image 20231212153952.png]]
+![Pasted image 20231212153952.png](/images/yoda-notation/Pasted image 20231212153952.png)
 
 它的含义是，在 C/C++ 里面使用这样的表达式顺序：
 

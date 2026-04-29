@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "天才是不存在的"
 author: 王垠
 created: 2017-11-11
 source: https://www.yinwang.org/posts/genius

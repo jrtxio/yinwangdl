@@ -1,5 +1,6 @@
 ---
 dg-publish: false
+title: "编程的宗派"
 author: 王垠
 created: 2015-04-03
 source: https://www.yinwang.org/posts/paradigms

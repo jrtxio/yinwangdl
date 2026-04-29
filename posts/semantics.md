@@ -1,10 +1,11 @@
 ---
 dg-publish: false
+title: "什么是语义学"
 author: 王垠
 created: 2026-04-11
 source: https://www.yinwang.org/posts/semantics
 ---
-![[Pasted image 20230901102735.png|150]]
+![Pasted image 20230901102735.png](/images/semantics/Pasted image 20230901102735.png)
 
 很多人问我如何在掌握基本的程序语言技能之后进入“语义学”的学习。现在我就简单介绍一下什么是“语义”，然后推荐一本入门的书。这里我说的“语义”主要是针对程序语言，不过自然语言里的语义，其实本质上也是一样的。
 
