@@ -316,9 +316,10 @@ a:hover { color: var(--accent-hover); }
 }
 
 .post-content img {
+  display: block;
   max-width: 100%;
   height: auto;
-  margin: 1.5em 0;
+  margin: 1.5em auto;
   border-radius: 10px;
   border: 1px solid var(--border);
 }
