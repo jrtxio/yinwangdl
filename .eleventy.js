@@ -15,14 +15,25 @@ module.exports = function (eleventyConfig) {
     return String(date).substring(0, 10);
   });
 
-  // Sort posts by created date descending
+  // Extract year from date
+  eleventyConfig.addFilter("year", (date) => {
+    if (!date) return "Unknown";
+    const iso = typeof date === "string" ? date.substring(0, 10) : date instanceof Date ? date.toISOString().substring(0, 10) : String(date).substring(0, 10);
+    return iso.substring(0, 4);
+  });
+
+  // Sort posts by created date descending (normalize to ISO string)
   eleventyConfig.addCollection("post", function (collectionApi) {
     return collectionApi
       .getFilteredByTag("post")
       .sort((a, b) => {
-        const dateA = String(a.data.created || "0000");
-        const dateB = String(b.data.created || "0000");
-        return dateB.localeCompare(dateA);
+        const toIso = (d) => {
+          if (!d) return "0000";
+          if (typeof d === "string") return d.substring(0, 10);
+          if (d instanceof Date) return d.toISOString().substring(0, 10);
+          return String(d).substring(0, 10);
+        };
+        return toIso(b.data.created).localeCompare(toIso(a.data.created));
       });
   });
 
