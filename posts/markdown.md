@@ -13,7 +13,7 @@ source: https://www.yinwang.org/posts/markdown
 
 	我已经在一篇[英文博文](http://en.yinwang.org/blog-en/2011/05/08/layout)里提到了 layout 语法的多种问题。因为空格的数量决定了文档的结构，这种文档格式相当的“脆弱”。稍微少打一两个空格，就会出现不可预测的结果。这种现象在“itemize”内部的代码块最容易出现。因为每个 item 带来了缩进，所以内部的代码必须比 item 的缩进多 4 个空格，才能被排到正确的位置。比如我转换博文的时候多次出现以下的情况：
 	
-	![Pasted image 20231212152103.png](/images/markdown/Pasted image 20231212152103.png)
+	![Pasted image 20231212152103.png](/images/markdown/Pasted%20image%2020231212152103.png)
 
 	这里的问题是，代码里的第一行 helloworld z = let x = 1 因为缩进不够，被放到了代码块外面。但是为了准确的缩进所耗费的精力，其实比直接打 <pre> 这样的 tag 还要多。
 
@@ -25,6 +25,6 @@ source: https://www.yinwang.org/posts/markdown
 
 	在很多细节上，markdown 并不能表达我想要的格式。比如它不能正确的插入断行 <br>。如果你有两块紧接在一起的代码，但你不想把它们连在一起，markdown 非要给你连在一起…… 于是我就发现自己加入了越来越多的 HTML。
 
-	这在图片的语法上就更加明显，markdown 引入了 ![alt](image url) 这样的格式，其实比起 HTML 还要难看和不一致。比如现在它仍然无法表达图片的大小，这是相当重要的信息。所以我觉得 markdown 的语法已经显示出了它的弱点，如果它要表达更复杂的信息，就会变得比 HTML 还要难记，难看。所以对于图片，我觉得还不如直接用 HTML 的 <img> 。
+	这在图片的语法上就更加明显，markdown 引入了 ![alt](image%20url) 这样的格式，其实比起 HTML 还要难看和不一致。比如现在它仍然无法表达图片的大小，这是相当重要的信息。所以我觉得 markdown 的语法已经显示出了它的弱点，如果它要表达更复杂的信息，就会变得比 HTML 还要难记，难看。所以对于图片，我觉得还不如直接用 HTML 的 <img> 。
 
 所以总的感觉是 markdown 引入了太多的“语法”，以至于稍微复杂一点的信息表达起来还不如 HTML 来的直接。现在就这样先凑合着吧。也许过段时间自己设计一个格式。

@@ -7,7 +7,7 @@ source: https://www.yinwang.org/posts/yoda-notation
 ---
 ## Yoda Notation（Yoda 表示法）
 
-![Pasted image 20231212153952.png](/images/yoda-notation/Pasted image 20231212153952.png)
+![Pasted image 20231212153952.png](/images/yoda-notation/Pasted%20image%2020231212153952.png)
 
 它的含义是，在 C/C++ 里面使用这样的表达式顺序：
 

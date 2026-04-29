@@ -85,7 +85,7 @@ source: https://www.yinwang.org/posts/practical-idealism
 
 当我离开这个公司的时候，我收到了这样一封来自团队成员的感谢 email：
 
-![Pasted image 20231218103643.png](/images/practical-idealism/Pasted image 20231218103643.png)
+![Pasted image 20231218103643.png](/images/practical-idealism/Pasted%20image%2020231218103643.png)
 
 他说：“谢谢你帮助我们保持了常理和理智，把事业推向前进。我们会怀念你的！”
 

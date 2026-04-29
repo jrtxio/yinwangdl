@@ -5,7 +5,7 @@ author: 王垠
 created: 2013-04-11
 source: https://www.yinwang.org/posts/scheme-setup
 ---
-![Pasted image 20231212151109.gif](/images/scheme-setup/Pasted image 20231212151109.gif)
+![Pasted image 20231212151109.gif](/images/scheme-setup/Pasted%20image%2020231212151109.gif)
 
 介绍了这么久的 Scheme，却没有讲过如何配置一个高效的 Scheme 的编程环境。有些人开始学习 Scheme 的时候感觉无从下手，所以今天讲一下它的配置。
 
@@ -169,6 +169,6 @@ https://www.dropbox.com/s/v0ejctd1agrt95x/parenface.el
 
 然后再打开 Scheme 代码的时候，你就会看到是这个样子：
 
-![Pasted image 20231212151746.png](/images/scheme-setup/Pasted image 20231212151746.png)
+![Pasted image 20231212151746.png](/images/scheme-setup/Pasted%20image%2020231212151746.png)
 
 好了，这就是我写 Scheme 的所有配置了。希望这些有所帮助。

@@ -5,7 +5,7 @@ author: 王垠
 created: 2014-02-18
 source: https://www.yinwang.org/posts/dijkstra-interview
 ---
-![Pasted image 20231218101137.png](/images/dijkstra-interview/Pasted image 20231218101137.png)
+![Pasted image 20231218101137.png](/images/dijkstra-interview/Pasted%20image%2020231218101137.png)
 
 （也可以访问 [YouTube](http://www.youtube.com/watch?v=RCCigccBzIU) 或者从源地址下载 [MPEG1](http://www.cs.utexas.edu/users/EWD/video-audio/NoorderlichtVideo.html)，300M）
 
