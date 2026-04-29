@@ -2,7 +2,7 @@
 dg-publish: false
 title: "所谓软件工程"
 author: 王垠
-created: 2026-04-11
+created: 2015-06-07
 source: https://www.yinwang.org/posts/software-engineering
 ---
 很多编程的人包括我，头衔叫做“软件工程师”（software engineer），然而我却不喜欢这个名字。我喜欢把自己叫做“程序员”（programmer）或者“计算机科学家”（computer scientist）。这是为什么呢？这需要从“软件工程”（software engineering）在现实中的涵义谈起。

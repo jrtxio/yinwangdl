@@ -2,7 +2,7 @@
 dg-publish: false
 title: "几个需要避免的美国英语习惯"
 author: 王垠
-created: 2026-04-15
+created: 2020-05-23
 source: https://www.yinwang.org/posts/american-english-problems
 ---
 这篇文章汇集了最近我在微博提到的一些美国英语的“病毒”。

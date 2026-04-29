@@ -2,7 +2,7 @@
 dg-publish: false
 title: "DSL 的误区"
 author: 王垠
-created: 2026-04-11
+created: 2017-05-25
 source: https://www.yinwang.org/posts/dsl
 ---
 DSL 时不时地会成为一个话题，所以今天想专门说一下。

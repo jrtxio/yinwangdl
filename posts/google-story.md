@@ -2,7 +2,7 @@
 dg-publish: false
 title: "我和 Google 的故事（2012 年原版）"
 author: 王垠
-created: 2026-04-15
+created: 2012-07-12
 source: https://www.yinwang.org/posts/google-story
 ---
 也许有人看见过我批判 Google 的那篇英文文章。它有一部分片面性，所以被我从英文博客上拿下来了。我一直在反思自己在 Google 的经历，也许现在用自己的母语，我可以得出一个准确一点的结论吧。

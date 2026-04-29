@@ -2,7 +2,7 @@
 dg-publish: false
 title: "关于微内核的对话"
 author: 王垠
-created: 2026-04-11
+created: 2019-08-19
 source: https://www.yinwang.org/posts/microkernel
 ---
 不知怎么的，最近“微内核 vs 宏内核”又成了热门话题。这场争论从 1992 年开始……

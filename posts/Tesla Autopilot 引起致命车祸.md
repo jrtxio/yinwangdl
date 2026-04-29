@@ -1,7 +1,7 @@
 ---
 dg-publish: false
 author: 王垠
-created: 2026-04-11
+created: 2016-07-10
 source: https://www.yinwang.org
 ---
 好一段时间没关心 Tesla 了，今天才发现他们的 autopilot 终于引起了[致命的车祸](http://www.pbs.org/newshour/rundown/deadly-tesla-crash-exposes-confusion-over-automated-driving)。这场 Model S 撞上 18 轮大卡车的车祸，发生于 5 月 7 号，距今已经两个月了。 Tesla 把这事隐瞒了两个月之久，直到现在美国国家公路交通安全管理局（NHTSA）开始调查此事，才迫不得已公之于众。由于 Tesla 没有及时向政府监管部门报告事实，政府正在考虑对 Tesla 公司采取法律行动。

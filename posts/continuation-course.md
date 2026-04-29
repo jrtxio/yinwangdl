@@ -2,7 +2,7 @@
 dg-publish: false
 title: "continuation 和并发计算专项班"
 author: 王垠
-created: 2026-04-11
+created: 2022-12-12
 source: https://www.yinwang.org/posts/continuation-course
 ---
 进阶班的内容在短时间的内覆盖面很广。虽然每个主题都讲的很深入浅出，整个课程也需要两个多月，所有的内容都很烧脑，所以再次开课可能不大方便。我在考虑把进阶班的内容分成小块，对每一块进行专项讲座。这样整个过程会大大缩短，时间安排会更加灵活，脑力负担会减轻。专门针对一小块内容，会大大增强认知效果。

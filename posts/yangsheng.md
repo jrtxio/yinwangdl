@@ -2,7 +2,7 @@
 dg-publish: false
 title: "养生节目的危害"
 author: 王垠
-created: 2026-04-11
+created: 2016-06-28
 source: https://www.yinwang.org/posts/yangsheng
 ---
 国内总是流行各种各样的“养生节目”，深受中老年人的欢迎。比如我爸妈，有时无聊了，就会转发给我一些养生节目，比如这个：『[多喝白开水带来的危害](http://v.qq.com/x/cover/kieigw8nv6q7fj0/b0016b9qoy1.html)』。这节目说，有人得了过敏性鼻炎，喷嚏鼻涕不断，严重脱发，头都半秃了，虚弱无力，性能力衰退…… 最后专家得出结论，是因为他每天早上喝一杯凉水导致的！

@@ -2,7 +2,7 @@
 dg-publish: false
 title: "所谓“人为错误”"
 author: 王垠
-created: 2026-04-11
+created: 2015-02-24
 source: https://www.yinwang.org/posts/human-errors
 ---
 昨天是一个让人悲哀的日子。旧金山湾区主要的上下班交通工具 Caltrain，在 24 小时之内发生三次事故，撞死三人。其中一次事故发生在 Menlo Park，一辆汽车被困在铁轨上，因为被前后的车辆堵塞而无法逃避，终于被飞驰而来的列车撞成一堆废铁。开车人被消防队员从残骸里切割出来，送往医院后不久死亡。([新闻视频](http://www.ktvu.com/story/28193228/driver-killed-in-menlo-park-caltrain-accident-was-trapped-on-tracks)）

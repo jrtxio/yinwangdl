@@ -2,7 +2,7 @@
 dg-publish: false
 title: "我和权威的故事"
 author: 王垠
-created: 2026-04-11
+created: 2014-01-04
 source: https://www.yinwang.org/posts/authority
 ---
 每个人小时候心里都是没有权威的，就像每个人小时候也都不相信广告一样。可是权威就像广告，它埋伏在你的潜意识里。听一遍不信，听两遍不信，……，直到一千遍的时候，它忽然开始起作用了，而且这作用越来越强。

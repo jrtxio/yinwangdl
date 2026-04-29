@@ -2,7 +2,7 @@
 dg-publish: false
 title: "谈程序的正确性"
 author: 王垠
-created: 2026-04-11
+created: 2015-07-02
 source: https://www.yinwang.org/posts/program-correctness
 ---
 不管在学术圈还是在工业界，总有很多人过度的关心所谓“程序的正确性”，有些甚至到了战战兢兢，舍本逐末的地步。下面举几个例子：

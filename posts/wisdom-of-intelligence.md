@@ -2,7 +2,7 @@
 dg-publish: false
 title: "对智商的怀疑"
 author: 王垠
-created: 2026-04-11
+created: 2020-03-23
 source: https://www.yinwang.org/posts/wisdom-of-intelligence
 ---
 想写一篇「新手上路指南」有一段时间了。一方面，因为顾问工作和知识星球上存在很多类似的问题。另一方面，因为这些问题引起了我内心的共鸣。

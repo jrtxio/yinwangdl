@@ -1,7 +1,7 @@
 ---
 dg-publish: false
 author: 王垠
-created: 2026-04-11
+created: 2012-09-18
 source: https://www.yinwang.org/blog-cn/2012/09/18/texmacs
 ---
 ![Pasted image 20231212145452.png](/images/TeXmacs：一个真正“所见即所得”的排版系统/Pasted image 20231212145452.png)

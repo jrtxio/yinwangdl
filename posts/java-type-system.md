@@ -2,7 +2,7 @@
 dg-publish: false
 title: "一道 Java 面试题"
 author: 王垠
-created: 2026-04-11
+created: 2020-02-13
 source: https://www.yinwang.org/posts/java-type-system
 ---
 关于程序员对 Java 类型系统的理解，比较高级的一个面试问题是这样：

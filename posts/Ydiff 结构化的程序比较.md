@@ -1,7 +1,7 @@
 ---
 dg-publish: false
 author: 王垠
-created: 2026-04-11
+created: 2013-04-21
 source: https://www.yinwang.org
 ---
 [ydiff](https://github.com/yinwang0/ydiff) 是我的一个开源项目，用以探索一种全新的程序比较以及版本控制系统。

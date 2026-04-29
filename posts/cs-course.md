@@ -2,7 +2,7 @@
 dg-publish: false
 title: "计算机科学课程"
 author: 王垠
-created: 2026-04-11
+created: 2020-03-03
 source: https://www.yinwang.org/posts/cs-course
 ---
 经过一段时间的顾问工作和聊天沟通，比较深入的了解到国内计算机教育的现状和大家对于学习的困惑，我觉得是可以“系统授课”的时候了。只是这次的授课，恐怕和我原来设想的方式有很大不同。

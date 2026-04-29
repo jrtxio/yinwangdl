@@ -2,7 +2,7 @@
 dg-publish: false
 title: "谈 Linux，Windows 和 Mac"
 author: 王垠
-created: 2026-04-11
+created: 2013-03-07
 source: https://www.yinwang.org/posts/linux-windows-mac
 ---
 这段时间受到很多人的来信。他们看了我很早以前写的推崇 Linux 的文章，想知道如何“抛弃 Windows，学习 Linux”。天知道他们在哪里找到那么老的文章，真是好事不出门…… 我觉得我有责任消除我以前的文章对人的误导，洗清我这个“Linux 狂热分子”的恶名。我觉得我已经写过一些澄清的文章了，可是怎么还是有人来信问 Linux 的问题。也许因为感觉到“舆论压力”，我把文章都删了。

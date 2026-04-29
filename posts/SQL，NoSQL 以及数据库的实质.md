@@ -1,7 +1,7 @@
 ---
 dg-publish: false
 author: 王垠
-created: 2026-04-11
+created: 2014-04-24
 source: https://www.yinwang.org/blog-cn/2014/04/24/sql-nosql/
 ---
 在之前的一些博文里（比如这篇），我多次提到关系式数据库和 SQL 的缺陷。我觉得它们是制造了问题又自己来解决，而且没有解决好。现在有了点时间，我就把这里面的细节稍微说一下，希望有一定的启发作用。

@@ -2,7 +2,7 @@
 dg-publish: false
 title: "关于Git的礼节"
 author: 王垠
-created: 2026-04-11
+created: 2015-03-11
 source: https://www.yinwang.org/posts/git-etiquette
 ---
 （这里的内容本来是《[怎样尊重一个程序员](http://www.yinwang.org/blog-cn/2015/03/03/how-to-respect-a-programmer)》的一小节，但由于 Git 的使用引起了很普遍的不尊重程序员的现象，现在特别将这一节提出来单独成文。）

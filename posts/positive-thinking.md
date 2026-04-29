@@ -2,7 +2,7 @@
 dg-publish: false
 title: "正面思维的误区"
 author: 王垠
-created: 2026-04-11
+created: 2016-05-22
 source: https://www.yinwang.org/posts/positive-thinking
 ---
 有些人喜欢宣扬所谓“正面思维”（positive thinking），而不顾事实真相。每当你批评一些事情，他们就会拿出正面思维这个万能法宝来压制你，说：“你这人怎么这么 negative？要 positive，要看到事物好的方面才对！”

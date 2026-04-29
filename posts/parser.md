@@ -2,7 +2,7 @@
 dg-publish: false
 title: "对 Parser 的误解"
 author: 王垠
-created: 2026-04-11
+created: 2015-09-19
 source: https://www.yinwang.org/posts/parser
 ---
 一直很了解人们对于 parser 的误解，可是一直都提不起兴趣来阐述对它的观点。然而我觉得是有必要解释一下这个问题的时候了。我感觉得到大部分人对于 parser 的误解之深，再不澄清一下，恐怕这些谬误就要写进歪曲的历史教科书，到时候就没有人知道真相了。

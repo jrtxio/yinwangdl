@@ -2,7 +2,7 @@
 dg-publish: false
 title: "为什么自动车完全不可以犯错误"
 author: 王垠
-created: 2026-04-11
+created: 2016-03-19
 source: https://www.yinwang.org/posts/self-driving-car-liability
 ---
 有人跟我讲，我对 Google 的自动车要求太苛刻了。人无完人，所以 Google 的产品也不需要是完美的，只要“够好用”就有市场。世界上有那么多糟糕的司机，酒后驾车的，开车时发短信的，打瞌睡的，判断失误的…… 导致了那么多的车祸，可比 Googl e 的自动车差多了。所以自动车不需要完美，只要 99.9% 的情况下可以正确工作，能大幅度减少车祸率，就是人类的福气了。

@@ -2,7 +2,7 @@
 dg-publish: false
 title: "什么是语义学"
 author: 王垠
-created: 2026-04-11
+created: 2012-07-25
 source: https://www.yinwang.org/posts/semantics
 ---
 ![Pasted image 20230901102735.png](/images/semantics/Pasted image 20230901102735.png)

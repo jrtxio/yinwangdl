@@ -2,7 +2,7 @@
 dg-publish: false
 title: "Oberon 操作系统：被忽略的珍宝"
 author: 王垠
-created: 2026-04-11
+created: 2013-03-07
 source: https://www.yinwang.org/posts/oberon
 ---
 推荐一篇很久以前看的文章：[Oberon - The Overlooked Jewel](http://www.ics.uci.edu/~franz/Site/pubs-pdf/BC03.pdf)

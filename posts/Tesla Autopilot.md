@@ -1,7 +1,7 @@
 ---
 dg-publish: false
 author: 王垠
-created: 2026-04-11
+created: 2016-01-10
 source: https://www.yinwang.org
 ---
 > 以下内容是《[Tesla Model S的设计失误](http://www.yinwang.org/blog-cn/2015/12/12/tesla-model-s)》一文中新加入的小节。由于写作时间相距太远，而且由于它的[时效性](http://www.reuters.com/article/us-tesla-autopilot-idUSKCN0UO0NM20160110)，现在也把它单独提出来，独立成文。

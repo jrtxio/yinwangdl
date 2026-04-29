@@ -2,7 +2,7 @@
 dg-publish: false
 title: "解谜英语语法"
 author: 王垠
-created: 2026-04-11
+created: 2018-11-23
 source: https://www.yinwang.org/posts/grammar
 ---
 我发现很多人仍然在为语法的枯燥繁琐而头痛。市面上好像不存在一本深入本质的语法教材。语法对于我来说已经早就不是问题，所以我萌生了写这样一篇文章的念头，帮助那些正在为学习语法而痛苦挣扎的人们。

@@ -2,7 +2,7 @@
 dg-publish: false
 title: "大提琴为什么这么难学"
 author: 王垠
-created: 2026-04-11
+created: 2021-04-16
 source: https://www.yinwang.org/posts/cello-technique
 ---
 （本文记录了我开始“破解大提琴计划”一个月以来的阶段性发现。图片比较多，虽然经过压缩，还是需要一定时间，请耐心等待加载。）

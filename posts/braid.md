@@ -2,7 +2,7 @@
 dg-publish: false
 title: "Braid - 一个发人深思的游戏"
 author: 王垠
-created: 2026-04-11
+created: 2013-03-04
 source: https://www.yinwang.org/posts/braid
 ---
 ![Pasted image 20231212145934.png](/images/braid/Pasted image 20231212145934.png)

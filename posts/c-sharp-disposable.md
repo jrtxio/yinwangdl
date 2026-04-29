@@ -2,7 +2,7 @@
 dg-publish: false
 title: "C# 的 IDisposable 接口"
 author: 王垠
-created: 2026-04-11
+created: 2016-10-13
 source: https://www.yinwang.org/posts/c-sharp-disposable
 ---
 我在微软的团队快被微软 C# 里面的各种 [IDisposable](https://learn.microsoft.com/en-us/dotnet/api/system.idisposable?view=net-9.0&redirectedfrom=MSDN) 对象给折腾疯了……

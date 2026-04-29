@@ -2,7 +2,7 @@
 dg-publish: false
 title: "我为什么不再做 PL 人"
 author: 王垠
-created: 2026-04-15
+created: 2016-03-31
 source: https://www.yinwang.org/posts/no-longer-pl
 ---
 我不做程序语言（PL）的工作已经半年了。在这半年里，我变得快乐了很多，对世界也有了新的观点。现在我想来讲一讲，我为什么不想再做 PL 的工作和研究。我只希望这些观点可以给正在做 PL，或者考虑进入这个领域的人们，作为一份参考。

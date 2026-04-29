@@ -2,7 +2,7 @@
 dg-publish: false
 title: "AlphaGo Zero 和强人工智能"
 author: 王垠
-created: 2026-04-11
+created: 2017-11-04
 source: https://www.yinwang.org/posts/alphago-zero
 ---
 前段时间比较热门的是 AlphaGo（阿法狗）的升级版：AlphaGo Zero（阿法狗零）。跟阿法狗不同，阿法狗零不依赖于任何人类对弈记录，完全从围棋的规则出发，“自学成才”，推导出所有的战略，在与阿法狗的对战中完胜。有人问我，阿法狗零是否改变了我对人工智能的看法。我的回答是：没有。

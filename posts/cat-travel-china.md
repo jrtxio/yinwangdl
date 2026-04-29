@@ -2,7 +2,7 @@
 dg-publish: false
 title: "带猫回国经历"
 author: 王垠
-created: 2026-04-11
+created: 2017-07-06
 source: https://www.yinwang.org/posts/cat-travel-china
 ---
 ![monet-inflight1.jpg](/images/cat-travel-china/monet-inflight1.jpg)

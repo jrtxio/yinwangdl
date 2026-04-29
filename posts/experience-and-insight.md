@@ -2,7 +2,7 @@
 dg-publish: false
 title: "经验和洞察力"
 author: 王垠
-created: 2026-04-11
+created: 2017-04-14
 source: https://www.yinwang.org/posts/experience-and-insight
 ---
 很多人很在乎“经验”，比如号称自己在某领域有 30 年的经验，会用这样那样的技术。我觉得经验是有价值的，我也有经验，各个领域的都有点。然而我并不把经验放在很重要的位置，因为我拥有大部分人都缺乏而且忽视的一种东西：洞察力（insight）。

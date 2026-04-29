@@ -2,7 +2,7 @@
 dg-publish: false
 title: "Kotlin 和 Checked Exception"
 author: 王垠
-created: 2026-04-11
+created: 2017-05-23
 source: https://www.yinwang.org/posts/kotlin
 ---
 最近 JetBrains 的 Kotlin 语言忽然成了热门话题。国内小编们传言说，Kotlin 取代了 Java，成为了 Android 的“钦定语言”，很多人听了之后热血沸腾。初学者们也开始注意到 Kotlin，问出各种“傻问题”，很“功利”的问题，比如“现在学 Kotlin 是不是太早了一点？” 结果引起一些 Kotlin 老鸟们的鄙视。当然也有人来信，请求我评价 Kotlin。

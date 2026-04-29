@@ -2,7 +2,7 @@
 dg-publish: false
 title: "AlphaGo与人工智能"
 author: 王垠
-created: 2026-04-11
+created: 2016-03-09
 source: https://www.yinwang.org/posts/alpha-go
 ---
 在之前的一篇[文章](http://www.jianshu.com/p/01d1b2542036)中我指出，自动驾驶所需要的“视觉识别能力”和“常识判断能力”，对于机器来说是非常困难的问题。至今没有任何机器可以在视觉方面达到驴的水平，更不要说和人比。可是最近 Google 的 [AlphaGo](https://deepmind.com/alpha-go.html) 战胜了围棋世界冠军，挺闹腾的，以至于对 AI 的误解又加深了。

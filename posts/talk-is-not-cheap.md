@@ -2,7 +2,7 @@
 dg-publish: false
 title: "Talk is not cheap"
 author: 王垠
-created: 2026-04-11
+created: 2019-09-11
 source: https://www.yinwang.org/posts/talk-is-not-cheap
 ---
 （本文描述的是我长久的经历中形成的看法，跟我现在身边的人和事没有直接联系，请勿对号入座。）

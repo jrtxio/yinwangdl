@@ -1,7 +1,7 @@
 ---
 dg-publish: false
 author: 王垠
-created: 2026-04-11
+created: 2015-12-21
 source: https://www.yinwang.org
 ---
 Tesla 即将推出的 SUV（Model X），不但继承了以上提到的 Model S 的各种问题（触摸屏，门把，……），而且还制造了新的问题。Model X 具有一个别出心裁的车门设计，这车子看起来像一只展翅的鸟：

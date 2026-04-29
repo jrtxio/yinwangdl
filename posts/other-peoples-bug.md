@@ -2,7 +2,7 @@
 dg-publish: false
 title: "其他人的BUG"
 author: 王垠
-created: 2026-04-11
+created: 2015-02-20
 source: https://www.yinwang.org/posts/other-peoples-bug
 ---
 在软件行业，经常看到有的公司管理让一个人修补另一个人代码里的 BUG。有时候有人写了一段代码，扔出来不管了，然后公司管理让其他工程师来修复它。我想告诉你们，这种方法会很失败。

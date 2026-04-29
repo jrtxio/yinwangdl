@@ -1,7 +1,7 @@
 ---
 dg-publish: false
 author: 王垠
-created: 2026-04-11
+created: 2014-09-17
 source: https://www.yinwang.org
 ---
 总有人来信要求我给博客增加 RSS，我都没有回答他们。其实这个博客最开头是有 RSS 的，但是后来去掉了。现在我稍微有点空，就来解释一下为什么我的博客没有 RSS 以及类似的“推送”机制。

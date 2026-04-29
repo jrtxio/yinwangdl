@@ -2,7 +2,7 @@
 dg-publish: false
 title: "谈程序的“通用性”"
 author: 王垠
-created: 2026-04-11
+created: 2013-04-13
 source: https://www.yinwang.org/posts/generality
 ---
 在现实的软件工程中，我经常发现这样的一种现象。本来用很简单的代码就可以解决的问题，却因为设计者过分的关注了“通用性”，“可维护性”和“可扩展性”，被搞得绕了几道弯，让人琢磨不透。

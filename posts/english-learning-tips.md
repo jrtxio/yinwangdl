@@ -2,7 +2,7 @@
 dg-publish: false
 title: "英语学习的一些经验"
 author: 王垠
-created: 2026-04-11
+created: 2020-03-06
 source: https://www.yinwang.org/posts/english-learning-tips
 ---
 最近很多人问到关于英语学习的问题，所以我想稍微总结一下自己的经验。

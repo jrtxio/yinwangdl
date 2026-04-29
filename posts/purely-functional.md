@@ -2,7 +2,7 @@
 dg-publish: false
 title: "函数式语言的宗教"
 author: 王垠
-created: 2026-04-11
+created: 2013-03-31
 source: https://www.yinwang.org/posts/purely-functional
 ---
 很早的时候，“函数式语言”对于我来说就是 Lisp，因为 Lisp 可以在程序的几乎任意位置定义函数，并且把它们作为值来传递（这叫做 first-class function）。可是到后来有人告诉我，Lisp 其实不算“函数式语言”，因为 Lisp 的函数不“纯”（pure）。

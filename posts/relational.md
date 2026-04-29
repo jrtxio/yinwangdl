@@ -2,7 +2,7 @@
 dg-publish: false
 title: "关系式模型的实质"
 author: 王垠
-created: 2026-04-11
+created: 2014-04-24
 source: https://www.yinwang.org/posts/relational
 ---
 每当我调侃关系式数据库，就会有人说，SQL 和关系式数据库的设计偏离了 E. F. Codd 最初的关系式理论，关系式理论和关系式模型本身还是很先进的，只不过实现的时候被人搞砸了。

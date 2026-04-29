@@ -2,7 +2,7 @@
 dg-publish: false
 title: "Lisp 已死，Lisp 万岁！"
 author: 王垠
-created: 2026-04-11
+created: 2013-03-26
 source: https://www.yinwang.org/posts/lisp-dead-alive
 ---
 有一句古话，叫做“国王已死，国王万岁！”它的意思是，老国王已经死去，国王的儿子现在继位。这句话的幽默，就在于这两个“国王”其实指的不是同一个人，而你咋一看还以为它自相矛盾。今天我的话题仿效了这句话，叫做“Lisp 已死，Lisp 万岁！”希望到最后你会明白这是什么意思。

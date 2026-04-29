@@ -2,7 +2,7 @@
 dg-publish: false
 title: "自然视力恢复法"
 author: 王垠
-created: 2026-04-11
+created: 2022-02-22
 source: https://www.yinwang.org/posts/myopia
 ---
 （由于主页从国内访问不方便，如需分享，可以下载[本文的 PDF 版](http://www.yinwang.org/pdf/myopia.pdf)。网页版生成的 PDF 排版不大好，建议下载专门拍版的 PDF。）

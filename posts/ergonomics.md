@@ -2,7 +2,7 @@
 dg-publish: false
 title: "人体工学"
 author: 王垠
-created: 2026-04-11
+created: 2017-10-16
 source: https://www.yinwang.org/posts/ergonomics
 ---
 ![ergonomics.jpg](/images/ergonomics/ergonomics.jpg)

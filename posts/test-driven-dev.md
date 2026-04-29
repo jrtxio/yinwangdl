@@ -2,7 +2,7 @@
 dg-publish: false
 title: "测试驱动开发"
 author: 王垠
-created: 2026-04-11
+created: 2013-04-07
 source: https://www.yinwang.org/posts/test-driven-dev
 ---
 现在的很多公司，包括 Google 和我现在的公司 Coverity，都喜欢一种“测试驱动的开发”（test-driven development）。它的原理是，在写程序的时候同时写上自动化的“单元测试”（unit test）。在代码修改之后，这些测试可以批量的被运行，这样就可以避免不应该出现的错误。

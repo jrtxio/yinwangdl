@@ -2,7 +2,7 @@
 dg-publish: false
 title: "RubySonar：一个 Ruby 静态分析器"
 author: 王垠
-created: 2026-04-11
+created: 2014-01-28
 source: https://www.yinwang.org/posts/rubysonar
 ---
 在过去一个多月时间里，我大部分时间都在做一个 Ruby 的静态分析叫做 [RubySonar](https://github.com/yinwang0/rubysonar)。它使用与 PySonar2 类似的技术，不过针对 Ruby 的语义进行了很多调整。现在这个分析器已经能够支持 [Sourcegraph](https://sourcegraph.com/github.com/rails/rails) 的 Ruby 代码搜索和浏览。这比起之前的效果是一个很大的进步。

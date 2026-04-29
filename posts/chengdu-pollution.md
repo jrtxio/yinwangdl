@@ -2,7 +2,7 @@
 dg-publish: false
 title: "成都的雾霾"
 author: 王垠
-created: 2026-04-11
+created: 2018-02-16
 source: https://www.yinwang.org/posts/chengdu-pollution
 ---
 今天是大年初一，本来不想写东西的。可是一大早起来，就看到这样的天空，空气质量又是“重度污染”。连大年初一都不放过我，出不了门，所以我这个年也不想过了，决定写点什么，在我被这雾霾灭口之前 :)

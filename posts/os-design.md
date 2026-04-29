@@ -2,7 +2,7 @@
 dg-publish: false
 title: "一种新的操作系统设计"
 author: 王垠
-created: 2026-04-11
+created: 2013-04-14
 source: https://www.yinwang.org/posts/os-design
 ---
 我一直在试图利用程序语言的设计原理，设计一种超越“Unix 哲学”的操作系统。这里是我的设想：

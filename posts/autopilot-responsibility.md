@@ -2,7 +2,7 @@
 dg-publish: false
 title: "自动驾驶车的责任和风险分析"
 author: 王垠
-created: 2026-04-11
+created: 2019-09-30
 source: https://www.yinwang.org/posts/autopilot-responsibility
 ---
 说到“自动驾驶”，人们最熟悉的名字恐怕是 Tesla 的 Elon Musk 先生了。他总是对 Tesla 的 Autopilot 进行各种夸大宣传，让人误解 Autopilot 的能力。Autopilot 引起车祸死了人之后，Musk 先生总是在网上发话扭曲人们的逻辑，抓住“车主没有及时接管”等各种借口，逃避对事故的责任。

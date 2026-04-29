@@ -1,7 +1,7 @@
 ---
 dg-publish: false
 author: 王垠
-created: 2026-04-11
+created: 2012-05-18
 source: https://www.yinwang.org
 ---
 ## 写小人书的老顽童

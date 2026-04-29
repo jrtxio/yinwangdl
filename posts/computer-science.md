@@ -2,7 +2,7 @@
 dg-publish: false
 title: "解谜计算机科学"
 author: 王垠
-created: 2026-04-11
+created: 2018-04-13
 source: https://www.yinwang.org/posts/computer-science
 ---
 要掌握一个学科的精髓，不能从细枝末节开始。人脑的能力很大程度上受限于信念。一个人不相信自己的时候，他就做不到本来可能的事。信心是很重要的，信心却容易被挫败。如果只见树木不见森林，人会失去信心，以为要到猴年马月才能掌握一个学科。

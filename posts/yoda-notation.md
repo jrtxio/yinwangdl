@@ -2,7 +2,7 @@
 dg-publish: false
 title: "Yoda 表示法错在哪里"
 author: 王垠
-created: 2026-04-11
+created: 2013-04-16
 source: https://www.yinwang.org/posts/yoda-notation
 ---
 ## Yoda Notation（Yoda 表示法）

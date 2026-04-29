@@ -2,7 +2,7 @@
 dg-publish: false
 title: "Hindley-Milner 类型系统的根本性错误"
 author: 王垠
-created: 2026-04-11
+created: 2013-04-01
 source: https://www.yinwang.org/posts/hindley-milner
 ---
 之前的一个时间，我曾经公开过这样一段幻灯片，它是 2012 年 10 月的时候，我在 Indiana 大学做的最后一次演讲。由于当时的委婉，我并没有直接说出这些结论的重要性。其实它揭示了 ML 和 Haskell 这类基于 Hindley-Milner 类型系统的语言的一个根本性的错误。

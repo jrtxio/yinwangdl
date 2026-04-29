@@ -2,7 +2,7 @@
 dg-publish: false
 title: "Java 有值类型吗？"
 author: 王垠
-created: 2026-04-11
+created: 2016-06-08
 source: https://www.yinwang.org/posts/java-value-type
 ---
 有人看了我之前的文章『[[Swift 语言的设计错误]]』，问我：“你说 Java 只有引用类型（reference type），但是根据 Java 的[官方文档](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)，Java 也有值类型（value type）和引用类型的区别的。比如 int，boolean 等原始类型就是值类型。” 现在我来解释一下这个问题。

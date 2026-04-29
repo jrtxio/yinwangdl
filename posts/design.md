@@ -2,7 +2,7 @@
 dg-publish: false
 title: "设计的重要性"
 author: 王垠
-created: 2026-04-11
+created: 2015-03-17
 source: https://www.yinwang.org/posts/design
 ---
 我曾经在一篇文章里谈过关于设计的问题，然而那篇文章由于标题不够醒目，可能很多人没有注意看。我觉得现在有必要把里面的内容专门提出来讲一下，因为设计在我的心目中具有至关重要的地位，却被很多计算机科学家和程序员所轻视。

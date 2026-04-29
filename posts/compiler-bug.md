@@ -2,7 +2,7 @@
 dg-publish: false
 title: "C 编译器优化的 Bug"
 author: 王垠
-created: 2026-04-11
+created: 2016-10-12
 source: https://www.yinwang.org/posts/compiler-bug
 ---
 一个朋友向我指出一个最近他们发现的 GCC 编译器优化过程（加上 -O3 选项）里的 bug，导致他们的产品出现诡异的行为。这使我想起以前见过的一个 GCC 的 bug。当时很多编译器专家认为那种做法是正确的，跟他们说不清楚。简言之，这种有问题的优化，喜欢利用 C 语言的“未定义行为”（undefined behavior）进行推断，最后得到奇怪的优化结果。

@@ -2,7 +2,7 @@
 dg-publish: false
 title: "标准化试卷标记语言"
 author: 王垠
-created: 2026-04-11
+created: 2013-04-14
 source: https://www.yinwang.org/posts/standard-exam-language
 ---
 （写另外一篇[[Markdown 的一些问题|博文]]的时候发现跑题太多，所以现在把它独立出来另外写一篇。）

@@ -2,7 +2,7 @@
 dg-publish: false
 title: "Swift 语言的设计错误"
 author: 王垠
-created: 2026-04-11
+created: 2016-06-06
 source: https://www.yinwang.org/posts/swift
 ---
 在『[[编程的智慧]]』一文中，我分析和肯定了 Swift 语言的 optional type 设计，但这并不等于 Swift 语言的整体设计是完美没有问题的。其实 Swift 1.0 刚出来的时候，我就发现它的 array 可变性设计存在严重的错误。Swift 2.0 修正了这个问题，然而他们的修正方法却没有击中要害，所以导致了其它的问题。这个错误一直延续到今天。

@@ -2,7 +2,7 @@
 dg-publish: false
 title: "Currying 的局限性"
 author: 王垠
-created: 2026-04-11
+created: 2013-04-02
 source: https://www.yinwang.org/posts/currying
 ---
 很多基于 lambda calculus 的程序语言，比如 ML 和 Haskell，都习惯用一种叫做 currying 的手法来表示函数。比如，如果你在 Haskell 里面这样写一个函数：

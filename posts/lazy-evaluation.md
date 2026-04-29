@@ -2,7 +2,7 @@
 dg-publish: false
 title: "惰性求值"
 author: 王垠
-created: 2026-04-11
+created: 2013-04-01
 source: https://www.yinwang.org/posts/lazy-evaluation
 ---
 从之前的几篇博文里面你也许已经看到了，Haskell 其实是问题相当严重的语言，然而这些问题却没有引起足够的重视。我能看到的 Haskell 的问题在于：

@@ -2,7 +2,7 @@
 dg-publish: false
 title: "Markdown 的一些问题"
 author: 王垠
-created: 2026-04-11
+created: 2013-04-14
 source: https://www.yinwang.org/posts/markdown
 ---
 把我之前的博文基本上转换成了 markdown 格式。我发现 markdown 虽然在编辑器里看起来比 HTML 清晰一些，但也有一些不足。

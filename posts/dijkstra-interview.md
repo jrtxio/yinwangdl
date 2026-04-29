@@ -2,7 +2,7 @@
 dg-publish: false
 title: "一个对 Dijkstra 的采访视频"
 author: 王垠
-created: 2026-04-11
+created: 2014-02-18
 source: https://www.yinwang.org/posts/dijkstra-interview
 ---
 ![Pasted image 20231218101137.png](/images/dijkstra-interview/Pasted image 20231218101137.png)

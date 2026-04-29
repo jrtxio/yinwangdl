@@ -2,7 +2,7 @@
 dg-publish: false
 title: "DRY原则的误区"
 author: 王垠
-created: 2026-04-11
+created: 2015-06-14
 source: https://www.yinwang.org/posts/dry-principle
 ---
 很多编程的人，喜欢鼓吹各种各样的“原则”，比如 KISS 原则，DRY 原则…… 总有人把这些所谓原则奉为教条或者秘方，以为兢兢业业地遵循这些，空喊几个口号，就可以写出好的代码。同时，他们对违反这些原则的人嗤之以鼻——你不知道，不遵循或者藐视这些原则，那么你就是菜鸟。所谓“[DRY原则](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself)”（Don’t Repeat Yourself，不要重复你自己）就是这些教条其中之一。盲目的迷信 DRY 原则，在实际的工程中带来了各种各样的问题，却经常被忽视。

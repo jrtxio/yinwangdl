@@ -2,7 +2,7 @@
 dg-publish: false
 title: "智商的圈套"
 author: 王垠
-created: 2026-04-11
+created: 2015-03-20
 source: https://www.yinwang.org/posts/trap-of-intelligence
 ---
 上次买了个任天堂 3DS 游戏机，觉得里面的游戏很无聊，所以第二天就把游戏机连同游戏一起，转手倒卖给了别人。从那天之后，我开始琢磨一个问题——到底是什么让我觉得一个游戏好玩或者不好玩。我似乎对事物有一种很特别的品味，很多别人说“好玩”，“有趣”的游戏或者电影，我一看就觉得很无趣，或者很自虐。我一生中玩过最好玩的游戏，其实没有几个，可能掰着手指头都数得出来：Braid，Limbo，Klonoa（風のクロノア door to phantomile），《纪念碑谷》，Metal Gear Solid，……

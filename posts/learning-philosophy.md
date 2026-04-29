@@ -2,7 +2,7 @@
 dg-publish: false
 title: "学习的智慧"
 author: 王垠
-created: 2026-04-11
+created: 2019-07-12
 source: https://www.yinwang.org/posts/learning-philosophy
 ---
 有些人很爱学习，兢兢业业把书一个字一个字从头看到尾。好不容易学完一本书，却不知道自己学到了什么。

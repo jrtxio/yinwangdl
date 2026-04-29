@@ -2,7 +2,7 @@
 dg-publish: false
 title: "生活的智慧"
 author: 王垠
-created: 2026-04-11
+created: 2017-07-08
 source: https://www.yinwang.org/posts/living-philosophy
 ---
 我曾经写过一篇文章，叫『[编程的智慧](http://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy)』。再加上我总写一些技术性的文章，很多人可能还以为我是个技术狂人，只知道谈论技术，不会生活。其实跟我接触紧密的人都知道，我是一个很会生活的人。
