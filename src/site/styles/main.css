@@ -367,26 +367,37 @@ a:hover { color: var(--accent-hover); }
 
 /* ---- Sidebar Ads ---- */
 
+.page-layout {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  min-height: 100vh;
+}
+
 .ad-sidebar {
-  position: fixed;
-  top: 50%;
-  transform: translateY(-50%);
   width: 160px;
-  display: none;
-  z-index: 1;
+  flex-shrink: 0;
+  position: sticky;
+  top: 120px;
+  height: fit-content;
+  align-self: flex-start;
 }
 
-.ad-sidebar--left {
-  right: calc(50% + var(--max-w) / 2 + 16px);
+.page-body {
+  max-width: var(--max-w);
+  width: 100%;
+  min-width: 0;
 }
 
-.ad-sidebar--right {
-  left: calc(50% + var(--max-w) / 2 + 16px);
-}
-
-@media (min-width: 1200px) {
+@media (max-width: 1199px) {
   .ad-sidebar {
+    display: none;
+  }
+  .page-layout {
     display: block;
+  }
+  .page-body {
+    max-width: none;
   }
 }
 
