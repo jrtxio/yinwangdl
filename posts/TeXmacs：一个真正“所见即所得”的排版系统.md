@@ -4,7 +4,7 @@ author: 王垠
 created: 2012-09-18
 source: https://www.yinwang.org/blog-cn/2012/09/18/texmacs
 ---
-![Pasted image 20231212145452.png](/images/TeXmacs：一个真正“所见即所得”的排版系统/Pasted image 20231212145452.png)
+![Pasted image 20231212145452.png](/images/TeXmacs%EF%BC%9A%E4%B8%80%E4%B8%AA%E7%9C%9F%E6%AD%A3%E2%80%9C%E6%89%80%E8%A7%81%E5%8D%B3%E6%89%80%E5%BE%97%E2%80%9D%E7%9A%84%E6%8E%92%E7%89%88%E7%B3%BB%E7%BB%9F/Pasted image 20231212145452.png)
 
 好久没有推荐过自己喜欢的软件了，现在推荐一款我在美国做数学作业的私家法宝：TeXmacs。我恐怕不可能跟以前那么有闲心写个长篇的 TeXmacs 说明文档了，不过这东西如此的简单好用，所以基本上不用我写什么文档了。鉴于知道的人很少，不理解它的人很多，这里只是帮它打个广告，吊一下胃口。
 
@@ -20,7 +20,7 @@ TeXmacs 的主要特点是：
 
 - 在直观的同时不失去对底层结构的控制。比如，（见下图）窗口右下角的状态栏，显示出当前光标位置的“上下文”是“proof eqnarry* (1,1) start”，这表示的是这是在一个 proof 环境里的 eqnarry 的坐标 (1,1) 的开始处。当你使用 Ctrl-Backspace，最靠近光标的那层“环境”会被删除。比如，如果你现在的字体是斜体，那么在 Ctrl-Backspace 之后，字体就立即还原成正体。
 
-![Pasted image 20231212145542.png](/images/TeXmacs：一个真正“所见即所得”的排版系统/Pasted image 20231212145542.png)
+![Pasted image 20231212145542.png](/images/TeXmacs%EF%BC%9A%E4%B8%80%E4%B8%AA%E7%9C%9F%E6%AD%A3%E2%80%9C%E6%89%80%E8%A7%81%E5%8D%B3%E6%89%80%E5%BE%97%E2%80%9D%E7%9A%84%E6%8E%92%E7%89%88%E7%B3%BB%E7%BB%9F/Pasted image 20231212145542.png)
 
 - 结构化的浏览功能。比如，按 Ctrl-PgUp, Ctrl-PgDn 就可以在“相同类型”的结构里上下跳转。比如，如果你在小节标题里按这个键，就可以迅速的浏览所有的小节标题。如果你在数学公式里按这个键，就可以迅速浏览所有的数学公式。
 
@@ -32,4 +32,4 @@ TeXmacs 的主要特点是：
 
 想要迅速的掌握 TeXmacs 的基本用法，可以参考我绘制的 [TeXmacs 思维导图](https://www.mindomo.com/zh/mindmap/texmacs-b207992c90c046bdbe4053cbdf88b5d5?m=b207992c90c046bdbe4053cbdf88b5d5)：
 
-![Pasted image 20231212145642.png](/images/TeXmacs：一个真正“所见即所得”的排版系统/Pasted image 20231212145642.png)
+![Pasted image 20231212145642.png](/images/TeXmacs%EF%BC%9A%E4%B8%80%E4%B8%AA%E7%9C%9F%E6%AD%A3%E2%80%9C%E6%89%80%E8%A7%81%E5%8D%B3%E6%89%80%E5%BE%97%E2%80%9D%E7%9A%84%E6%8E%92%E7%89%88%E7%B3%BB%E7%BB%9F/Pasted image 20231212145642.png)

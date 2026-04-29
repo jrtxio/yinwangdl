@@ -26,9 +26,9 @@ Unix 哲学的影响是多方面的。从命令行到程序语言，到数据库
 
 我们首先来分析一下 Linux 命令行的工作原理吧。下图是一个很简单的 Linux 命令运行的过程。当然这不是全过程，但是更具体的细节跟我现在要说的主题无关。
 
-![Pasted image 20231208144710.png](/images/Unix 的缺陷/Pasted image 20231208144710.png)
+![Pasted image 20231208144710.png](/images/Unix%20%E7%9A%84%E7%BC%BA%E9%99%B7/Pasted image 20231208144710.png)
 
-![命令行解析过程.drawio](/images/Unix 的缺陷/命令行解析过程.drawio)
+![命令行解析过程.drawio](/images/Unix%20%E7%9A%84%E7%BC%BA%E9%99%B7/命令行解析过程.drawio)
 
 从上图我们可以看到，在 ls 命令运行的整个过程中，发生了如下的事情：
 
