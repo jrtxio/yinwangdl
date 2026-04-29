@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"Kotlin 和 Checked Exception"'
+title: 'Kotlin 和 Checked Exception'
 author: 王垠
 created: 2017-05-23
 source: https://www.yinwang.org/posts/kotlin

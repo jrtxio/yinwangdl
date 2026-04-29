@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"几个需要避免的美国英语习惯"'
+title: '几个需要避免的美国英语习惯'
 author: 王垠
 created: 2020-05-23
 source: https://www.yinwang.org/posts/american-english-problems

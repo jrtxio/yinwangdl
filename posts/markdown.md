@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"Markdown 的一些问题"'
+title: 'Markdown 的一些问题'
 author: 王垠
 created: 2013-04-14
 source: https://www.yinwang.org/posts/markdown

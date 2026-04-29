@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"生活的智慧"'
+title: '生活的智慧'
 author: 王垠
 created: 2017-07-08
 source: https://www.yinwang.org/posts/living-philosophy

@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"智商的圈套"'
+title: '智商的圈套'
 author: 王垠
 created: 2015-03-20
 source: https://www.yinwang.org/posts/trap-of-intelligence

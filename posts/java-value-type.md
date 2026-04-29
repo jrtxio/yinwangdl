@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"Java 有值类型吗？"'
+title: 'Java 有值类型吗？'
 author: 王垠
 created: 2016-06-08
 source: https://www.yinwang.org/posts/java-value-type

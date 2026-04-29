@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"“解决问题”与“消灭问题”"'
+title: '“解决问题”与“消灭问题”'
 author: 王垠
 created: 2013-03-19
 source: https://www.yinwang.org/posts/eliminate-problems

@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"人工智能的局限性"'
+title: '人工智能的局限性'
 author: 王垠
 created: 2017-04-23
 source: https://www.yinwang.org/posts/ai

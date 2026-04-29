@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"AlphaGo与人工智能"'
+title: 'AlphaGo与人工智能'
 author: 王垠
 created: 2016-03-09
 source: https://www.yinwang.org/posts/alpha-go

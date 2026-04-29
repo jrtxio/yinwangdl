@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"“超人类机器视觉”是不存在的"'
+title: '“超人类机器视觉”是不存在的'
 author: 王垠
 created: 2021-07-29
 source: https://www.yinwang.org/posts/super-human-level-vision

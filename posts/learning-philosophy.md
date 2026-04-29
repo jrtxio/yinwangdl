@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"学习的智慧"'
+title: '学习的智慧'
 author: 王垠
 created: 2019-07-12
 source: https://www.yinwang.org/posts/learning-philosophy

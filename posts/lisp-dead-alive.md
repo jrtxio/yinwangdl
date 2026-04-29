@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"Lisp 已死，Lisp 万岁！"'
+title: 'Lisp 已死，Lisp 万岁！'
 author: 王垠
 created: 2013-03-26
 source: https://www.yinwang.org/posts/lisp-dead-alive

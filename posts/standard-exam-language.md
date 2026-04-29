@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"标准化试卷标记语言"'
+title: '标准化试卷标记语言'
 author: 王垠
 created: 2013-04-14
 source: https://www.yinwang.org/posts/standard-exam-language

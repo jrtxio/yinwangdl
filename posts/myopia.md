@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"自然视力恢复法"'
+title: '自然视力恢复法'
 author: 王垠
 created: 2022-02-22
 source: https://www.yinwang.org/posts/myopia

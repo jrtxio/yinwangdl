@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"解谜英语语法"'
+title: '解谜英语语法'
 author: 王垠
 created: 2018-11-23
 source: https://www.yinwang.org/posts/grammar

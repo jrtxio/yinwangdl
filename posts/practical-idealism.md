@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"什么是现实理想主义者"'
+title: '什么是现实理想主义者'
 author: 王垠
 created: 2017-05-17
 source: https://www.yinwang.org/posts/practical-idealism

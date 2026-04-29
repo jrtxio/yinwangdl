@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"英语学习的一些经验"'
+title: '英语学习的一些经验'
 author: 王垠
 created: 2020-03-06
 source: https://www.yinwang.org/posts/english-learning-tips

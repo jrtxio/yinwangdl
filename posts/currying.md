@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"Currying 的局限性"'
+title: 'Currying 的局限性'
 author: 王垠
 created: 2013-04-02
 source: https://www.yinwang.org/posts/currying

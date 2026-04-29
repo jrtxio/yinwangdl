@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"为什么自动车完全不可以犯错误"'
+title: '为什么自动车完全不可以犯错误'
 author: 王垠
 created: 2016-03-19
 source: https://www.yinwang.org/posts/self-driving-car-liability

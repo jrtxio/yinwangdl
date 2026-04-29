@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"所谓“人为错误”"'
+title: '所谓“人为错误”'
 author: 王垠
 created: 2015-02-24
 source: https://www.yinwang.org/posts/human-errors

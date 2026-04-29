@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"养生节目的危害"'
+title: '养生节目的危害'
 author: 王垠
 created: 2016-06-28
 source: https://www.yinwang.org/posts/yangsheng

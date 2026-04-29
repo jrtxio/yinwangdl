@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"我为什么不再做 PL 人"'
+title: '我为什么不再做 PL 人'
 author: 王垠
 created: 2016-03-31
 source: https://www.yinwang.org/posts/no-longer-pl

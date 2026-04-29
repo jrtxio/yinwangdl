@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"PySonar2 与 Sourcegraph 集成完毕"'
+title: 'PySonar2 与 Sourcegraph 集成完毕'
 author: 王垠
 created: 2013-11-25
 source: https://www.yinwang.org/posts/pysonar2-sg

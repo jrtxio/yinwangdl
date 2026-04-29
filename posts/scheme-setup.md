@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"Scheme 编程环境的设置"'
+title: 'Scheme 编程环境的设置'
 author: 王垠
 created: 2013-04-11
 source: https://www.yinwang.org/posts/scheme-setup

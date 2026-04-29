@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"大提琴为什么这么难学"'
+title: '大提琴为什么这么难学'
 author: 王垠
 created: 2021-04-16
 source: https://www.yinwang.org/posts/cello-technique

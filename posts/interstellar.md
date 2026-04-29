@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"恶评《星际穿越》"'
+title: '恶评《星际穿越》'
 author: 王垠
 created: 2014-11-12
 source: https://www.yinwang.org/posts/interstellar

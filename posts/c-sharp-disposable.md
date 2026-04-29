@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"C# 的 IDisposable 接口"'
+title: 'C# 的 IDisposable 接口'
 author: 王垠
 created: 2016-10-13
 source: https://www.yinwang.org/posts/c-sharp-disposable

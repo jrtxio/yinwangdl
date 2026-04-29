@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"谈 Linux，Windows 和 Mac"'
+title: '谈 Linux，Windows 和 Mac'
 author: 王垠
 created: 2013-03-07
 source: https://www.yinwang.org/posts/linux-windows-mac

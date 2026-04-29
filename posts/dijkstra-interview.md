@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"一个对 Dijkstra 的采访视频"'
+title: '一个对 Dijkstra 的采访视频'
 author: 王垠
 created: 2014-02-18
 source: https://www.yinwang.org/posts/dijkstra-interview

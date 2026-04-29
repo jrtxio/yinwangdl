@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"机器与人类视觉能力的差距（3）"'
+title: '机器与人类视觉能力的差距（3）'
 author: 王垠
 created: 2019-09-16
 source: https://www.yinwang.org/posts/machine-vs-human-3

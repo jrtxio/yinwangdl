@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"RubySonar：一个 Ruby 静态分析器"'
+title: 'RubySonar：一个 Ruby 静态分析器'
 author: 王垠
 created: 2014-01-28
 source: https://www.yinwang.org/posts/rubysonar

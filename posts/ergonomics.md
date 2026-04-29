@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"人体工学"'
+title: '人体工学'
 author: 王垠
 created: 2017-10-16
 source: https://www.yinwang.org/posts/ergonomics

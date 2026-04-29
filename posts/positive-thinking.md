@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"正面思维的误区"'
+title: '正面思维的误区'
 author: 王垠
 created: 2016-05-22
 source: https://www.yinwang.org/posts/positive-thinking

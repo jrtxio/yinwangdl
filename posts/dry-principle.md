@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"DRY原则的误区"'
+title: 'DRY原则的误区'
 author: 王垠
 created: 2015-06-14
 source: https://www.yinwang.org/posts/dry-principle

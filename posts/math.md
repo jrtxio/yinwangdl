@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"数学和编程"'
+title: '数学和编程'
 author: 王垠
 created: 2015-07-04
 source: https://www.yinwang.org/posts/math

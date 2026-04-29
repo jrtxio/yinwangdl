@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"Braid - 一个发人深思的游戏"'
+title: 'Braid - 一个发人深思的游戏'
 author: 王垠
 created: 2013-03-04
 source: https://www.yinwang.org/posts/braid

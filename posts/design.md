@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-title: '"设计的重要性"'
+title: '设计的重要性'
 author: 王垠
 created: 2015-03-17
 source: https://www.yinwang.org/posts/design
